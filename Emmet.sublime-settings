@@ -1,0 +1,24 @@
+{
+	"disabled_keymap_actions": "expand_abbreviation, update_image_size, run_emmet_action",
+	"snippets": {
+		"scss": {
+			"abbreviations": {
+				"mmixxs":  "@media screen and (min-width: \\$screen-xxs) {}",
+				"mmaxxs":  "@media screen and (max-width: \\$screen-xxs-max) {}",
+				"mmixs":   "@media screen and (min-width: \\$screen-xs) {}",
+				"mmaxs":   "@media screen and (max-width: \\$screen-xs-max) {}",
+				"mmism":   "@media screen and (min-width: \\$screen-sm) {}",
+				"mmasm":   "@media screen and (max-width: \\$screen-sm-max) {}",
+				"mmimd":   "@media screen and (min-width: \\$screen-md) {}",
+				"mmamd":   "@media screen and (max-width: \\$screen-md-max) {}",
+				"mmilg":   "@media screen and (min-width: \\$screen-lg) {}",
+				"mmalg":   "@media screen and (max-width: \\$screen-lg-max) {}",
+				"mmixl":   "@media screen and (min-width: \\$screen-xl) {}",
+				"mmaxl":   "@media screen and (max-width: \\$screen-xl-max) {}",
+				"mmixxl":  "@media screen and (min-width: \\$screen-xxl) {}",
+				"mmaxxl":  "@media screen and (max-width: \\$screen-xxl-max) {}",
+				"mmm":     "@media screen and (min-width: $1) and (max-width: $2) {$3}",
+			}
+		}
+	},
+}
