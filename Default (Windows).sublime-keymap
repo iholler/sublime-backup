@@ -1,0 +1,331 @@
+[
+	/******************************************************************************
+	>> KEY BINDINGS - USER
+	******************************************************************************/
+
+
+	/* NOTES
+	-------------------------------------*/
+
+	// Turn on sublime.log_commands
+	// sublime.log_commands(True)
+
+
+	/*  SUBLIME TEXT MENU SHORTCUTS
+	-------------------------------------*/
+
+	// Modified Tab Navigation
+	{"keys": ["ctrl+tab"], "command": "next_view"},
+	{"keys": ["ctrl+shift+tab"], "command": "prev_view"},
+
+	{ // Show Build Results:
+		"keys": ["ctrl+alt+b"],
+		"command": "show_panel",
+		"args": {"panel": "output.exec"}
+	},
+
+	/* --- BOOKMARK HOTKEYS --- */
+	// { // NEXT_BOOKMARK
+	// 	"keys": ["f2"], "command": "next_bookmark"
+	// },
+	// { // PREV_BOOKMARK
+	// 	"keys": ["shift+f2"], "command": "prev_bookmark"
+	// },
+	{ // TOGGLE_BOOKMARK
+		"keys": ["ctrl+\\"], "command": "toggle_bookmark"
+	},
+	// { // CLEAR_BOOKMARKS
+	// 	"keys": ["ctrl+shift+f2"], "command": "clear_bookmarks"
+	// },
+	{ // SELECT_ALL_BOOKMARKS
+		"keys": ["ctrl+shift+\\"], "command": "select_all_bookmarks"
+	},
+
+
+
+	/*  CODE MANIPULATION
+	-------------------------------------*/
+
+	/* --- GENERAL --- */
+	{ // Title Case
+		"keys": ["ctrl+k", "ctrl+t"],
+		"command": "title_case"
+	},
+
+	{ // Title Case
+		"keys": ["ctrl+k", "ctrl+i"],
+		"command": "reindent"
+	},
+
+	{ // Removes duplicate lines
+		"keys": ["f8"],
+		"command": "permute_lines",
+		"args": {"operation": "unique"}
+	},
+
+	{ // Strip extra white space and replace with only one space
+		"keys": ["ctrl+k", "ctrl+s", "ctrl+p"],
+		"command": "stripspace"
+	},
+
+	// Reindent selected lines:
+	{ "keys": ["ctrl+k", "ctrl+n"], "command": "reindent" },
+
+	{ // Quick Switch Project (Removed from the Default keybindings in Sublime Text build 3103)
+		"keys": ["ctrl+alt+p"],
+		"command": "prompt_select_workspace"
+	},
+
+	{ // CONVERT: document [4-space-indent] -> [2-space-tab-indent]
+		"keys": ["ctrl+shift+alt+4"],
+		"command": "run_multiple_commands",
+		"args": {
+			"commands":
+			[
+				{"command": "expand_tabs",   "args": {"set_translate_tabs": true}},
+				{"command": "set_setting",   "args": {"setting": "tab_size", "value": 4}},
+				{"command": "unexpand_tabs", "args": {"set_translate_tabs": true}},
+				{"command": "set_setting",   "args": {"setting": "tab_size", "value": 2}},
+				{"command": "unexpand_tabs", "args": {"set_translate_tabs": true}},
+			]
+		}
+	},
+
+	/* --- JAVASCRIPT --- */
+	{ // jquery selector wrap
+		"keys": ["ctrl+shift+j"],
+		"command": "insert_snippet",
+		"args": { "name": "Packages/User/Snippets/jquery-selector-wrap.sublime-snippet" }
+	},
+
+
+	/* --- PHP --- */
+	{ // PHP SNIPPET - Comment Selected Line
+		"keys": ["ctrl+alt+/"],
+		"command": "insert_snippet",
+		"args": { "name": "Packages/User/Snippets/php-commenter.sublime-snippet" }
+	},
+
+	{ // PHP SNIPPET - Comment Selected Block
+		"keys": ["ctrl+shift+alt+/"],
+		"command": "insert_snippet",
+		"args": { "name": "Packages/User/Snippets/php-commenter-plus.sublime-snippet" }
+	},
+
+	{ // PHP concatenate variables + 'string text' to store in variable
+		"keys": ["ctrl+k", "ctrl+p"],
+		"command": "insert_snippet",
+		"args": { "name": "Packages/User/Snippets/phpconcatenate.sublime-snippet" }
+	},
+
+	/*  PLUGIN SPECIFIC
+	-------------------------------------*/
+	{ // TEXT PASTRY: 0-X incremental numbering:
+		"keys": ["ctrl+i"],
+		"command": "text_pastry_range",
+		"args": {"padding": 1, "start": 0, "step": 1}
+	},
+
+	{ // TEXT PASTRY: 0-X incremental numbering:
+		"keys": ["ctrl+shift+i"],
+		"command": "text_pastry_range",
+		"args": {"padding": 1, "start": 1, "step": 1}
+	},
+
+	// XDEBUG
+	{"keys": ["ctrl+shift+alt+w"], "command": "xdebug_watch"                                      },
+	{"keys": ["ctrl+shift+alt+l"], "command": "xdebug_layout", "args": {"restore": true}          },
+	{"keys": ["ctrl+f5"],    		   "command": "xdebug_breakpoint"                                 },
+	{"keys": ["shift+f8"],         "command": "xdebug_conditional_breakpoint"                     },
+	{"keys": ["ctrl+shift+f12"],   "command": "xdebug_continue", "args": {"command": "run"}       },
+	// {"keys": ["ctrl+shift+f6"],    "command": "xdebug_continue", "args": {"command": "step_over"} },
+	// {"keys": ["ctrl+shift+f7"],    "command": "xdebug_continue", "args": {"command": "step_into"} },
+	// {"keys": ["ctrl+shift+f8"],    "command": "xdebug_continue", "args": {"command": "step_out"}  },
+	// {"keys": ["ctrl+shift+f9"],    "command": "xdebug_session_start"                              },
+	// {"keys": ["ctrl+shift+f10"],   "command": "xdebug_session_stop"                               },
+	// {"keys": ["ctrl+shift+f11"],   "command": "xdebug_layout", "args": {"keymap" : true}          },
+
+
+	{ // EMMET overrides:
+		"keys": ["shift+ctrl+alt+r"],
+		"args": {"action": "reflect_css_value"},
+		"command": "run_emmet_action",
+		"context": [{"key": "emmet_action_enabled.reflect_css_value"} ]
+	},
+
+
+
+	/*  VISUAL PREFERENCES
+	-------------------------------------*/
+
+	{ // Toggle Rulers Visibility
+		"keys": ["ctrl+k", "ctrl+\\"], "command": "toggle_rulers",
+		"args": { "values": [-1, 81] }
+	},
+
+	{ // Toggle Minimap
+		"keys": ["ctrl+k", "ctrl+m"],
+		"command": "toggle_minimap"
+	},
+
+	{ // Toggle Word Wrapping
+		"keys": ["ctrl+r", "ctrl+r"],
+		"command": "toggle_setting",
+		"args": {"setting": "word_wrap"}
+	},
+
+
+	{ // 80 Wrapping:
+	"keys": ["ctrl+shift+8"],
+	"command": "set_setting",
+	"args": {"setting": "wrap_width", "value": 81 }
+	},
+
+	{ // Auto Wrapping:
+		"keys": ["ctrl+shift+9"],
+		"command": "set_setting",
+		"args": {"setting": "wrap_width", "value": 0 }
+	},
+
+	{ // 100 Wrapping:
+	"keys": ["ctrl+shift+0"],
+	"command": "set_setting",
+	"args": {"setting": "wrap_width", "value": 101 }
+	},
+
+
+
+	{ // Toggle draw_centered
+		"keys": ["ctrl+r", "ctrl+c"],
+		"command": "toggle_setting",
+		"args": {"setting": "draw_centered"}
+	},
+
+
+	{ // Toggle indent guides
+		"keys": ["ctrl+alt+shift+i"],
+		"command": "toggle_setting",
+		"args": {"setting": "draw_indent_guides"}
+	},
+
+	{ // VIEW: center, word-wrap, sans-gutter, margin-0
+		"keys": ["ctrl+alt+r", "ctrl+alt+l"],
+		"command": "run_multiple_commands",
+		"args": {
+			"commands": [
+				{
+					"command": "set_setting",
+					"args": {"setting": "draw_centered", "value": true}
+				},
+				{
+					"command": "set_setting",
+					"args": {"setting": "word_wrap", "value": true}
+				},
+				{
+					"command": "set_setting",
+					"args": {"setting": "gutter", "value": false}
+				},
+				{
+					"command": "set_setting",
+					"args": {"setting": "margin", "value": 0}
+				},
+				{
+					"command": "set_setting",
+					"args": {"setting": "draw_indent_guides", "value": true}
+				},
+			]
+		}
+	},
+	{ // VIEW: left, sans-word-wrap, gutter, margin-4
+		"keys": ["ctrl+alt+r", "ctrl+alt+c"],
+		"command": "run_multiple_commands",
+		"args": {
+			"commands": [
+				{
+					"command": "set_setting",
+					"args": {"setting": "draw_centered", "value": false}
+				},
+				{
+					"command": "set_setting",
+					"args": {"setting": "word_wrap", "value": false}
+				},
+				{
+					"command": "set_setting",
+					"args": {"setting": "gutter", "value": true}
+				},
+				{
+					"command": "set_setting",
+					"args": {"setting": "margin", "value": 4}
+				},
+				{
+					"command": "set_setting",
+					"args": {"setting": "draw_indent_guides", "value": false}
+				},
+			]
+		}
+	},
+
+	{ // Toggle line numbers
+		"keys": ["ctrl+alt+l"],
+		"command": "toggle_setting",
+		"args":
+		{
+			"setting": "line_numbers"
+		}
+	},
+
+	{ // VIEW: tab_size = 2
+		"keys": ["ctrl+shift+2"],
+		"command": "run_multiple_commands",
+		"args": {
+			"commands": [
+				{"command": "unexpand_tabs", "set_translate_tabs": true},
+				{"command": "set_setting", "args": {"setting" : "tab_size", "value": 2 }},
+			]
+		}
+	},
+
+	{ // VIEW: tab_size = 4
+		"keys": ["ctrl+shift+4"],
+		"command": "run_multiple_commands",
+		"args": {
+			"commands": [
+				{"command": "unexpand_tabs", "set_translate_tabs": true},
+				{"command": "set_setting", "args": {"setting" : "tab_size", "value": 4 }},
+			]
+		}
+	},
+
+	// CODE FOLDING
+	{ "keys": ["ctrl+k", "ctrl+f"], "command": "fold_tag_attributes" },
+
+	// DISABLED Custome Hot Keys
+	// ==========================================
+
+		// split element out by attributes
+		{"keys": ["ctrl+shift+alt+["], "command": "split"},
+
+	// ==========================================
+	{ "keys": ["alt+d"], "command": "open_include"},
+	{ "keys": ["alt+r"], "command": "goto_symbol_in_project"},
+	{ "keys": ["ctrl+alt+r"], "command": "toggle_regex", "context":
+		[
+			{ "key": "setting.is_widget", "operator": "equal", "operand": true }
+		]
+	},
+	{ "keys": ["insert"], "command": "toggle_overwrite" },
+
+	// { // SNIPPET TESTER - Comment Selected Block
+	// 	"keys": ["ctrl+shift+alt+t"],
+	// 	"command": "insert_snippet",
+	// 	"args": { "name": "Packages/User/Snippets/test.sublime-snippet" }
+	// },
+
+	// split element out by attributes
+	{"keys": ["ctrl+shift+alt+j"], "command": "php_commenter_plus"},
+
+	// open time log
+	{"keys": ["ctrl+shift+alt+t"], "command": "open_time_log"},
+
+]
+
