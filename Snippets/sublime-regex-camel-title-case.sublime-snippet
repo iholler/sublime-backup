@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+Example Selection:
+nextFunction
+
+## titleCase
+/\u\1\E\L\2\E\u\3\E\L\4\E/
+
+### Sublime Snippet CDATA:
+\${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\u\1\E\L\2\E\u\3\E\L\4\E/}
+
+---
+## camelCase
+/\L\1\2\E\u\3\E\L\4\E/
+
+### Sublime Snippet CDATA:
+\${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\L\1\2\E\u\3\E\L\4\E/}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

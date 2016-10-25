@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[---
+## ${1:--}/${2:--}/${3:--}
+${4:-}:${5:--} ${6:a}m
+### ${7:WBM_FRONTEND}
+[ ${8:---} ] ▲ ${9:-}:${10:--} hr - ${11:action subject}
+${12:-}:${13:--} ${14:a}m
+]]></content>
+	<tabTrigger>timelog</tabTrigger>
+</snippet>

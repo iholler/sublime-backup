@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+// This captures any character for any length except the regex pattern you provide below.
+(?:.(?!(${1:anything_except_this_pattern}))+.)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>regexcept</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

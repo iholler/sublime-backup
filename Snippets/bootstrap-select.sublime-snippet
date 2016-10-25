@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group col-sm-4 col-xs-8">
+	<label for="VIC_${1:VariableName}" class="required">${1:VariableName}</label>
+	<select class="form-control" id="VIC_${1:VariableName}" name="VIC_${1:VariableName}" autocomplete="off">
+		<option disabled selected value="">${1:VariableName}</option>
+		<option value=""></option>
+	</select>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs-select</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

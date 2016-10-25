@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${2:(class=('|"))((\w*\s*\-*)+${1:<class name>})}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>regex-class</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+mkdir empty_folder && robocopy empty_folder ${1:offending_dir} /mir && rmdir ${1:offending_dir} && rmdir empty_folder
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>rmdir</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

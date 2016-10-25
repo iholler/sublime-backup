@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[<?php //* ?>
+${1:someCode();}
+<?php //*/ ?>
+]]></content>
+<tabTrigger>tog</tabTrigger>
+<scope>embedding.php text.html.basic</scope>
+
+</snippet>

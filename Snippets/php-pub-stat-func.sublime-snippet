@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+public static function ${1:functionName}(${2:\$vars}) {
+
+	${3:// code //}
+
+	self::sendOutput(self::getViewName(__FUNCTION__), \$results, \$vars);
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>psf</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[
+
+private \$${SELECTION/(\w)(\w+)/\L\1\E\2/};
+
+public function get${SELECTION/(\w)(\w+)/\u\1\E\2/}() {
+	return \$this->${SELECTION/(\w)(\w+)/\L\1\E\2/};
+}
+
+public function set${SELECTION/(\w)(\w+)/\u\1\E\2/}(\$${SELECTION/(\w)(\w+)/\L\1\E\2/}) {
+	\$this->${SELECTION/(\w)(\w+)/\L\1\E\2/} = \$${SELECTION/(\w)(\w+)/\L\1\E\2/};
+}
+]]></content>
+</snippet>

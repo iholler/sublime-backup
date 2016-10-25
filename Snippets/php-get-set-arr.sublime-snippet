@@ -1,0 +1,37 @@
+<snippet>
+<content><![CDATA[
+
+private \$${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\L\1\2\E\u\3\E\L\4\E/};
+private \$${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\L\1\2\E\u\3\E\L\4\E/}Array;
+
+public function get${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\u\1\E\L\2\E\u\3\E\L\4\E/}() {
+	return \$this->${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\L\1\2\E\u\3\E\L\4\E/};
+}
+
+public function set${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\u\1\E\L\2\E\u\3\E\L\4\E/}(\$${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\L\1\2\E\u\3\E\L\4\E/}) {
+	\$this->${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\L\1\2\E\u\3\E\L\4\E/} = \$${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\L\1\2\E\u\3\E\L\4\E/};
+}
+
+public function get${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\u\1\E\L\2\E\u\3\E\L\4\E/}Array() {
+	return \$this->${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\L\1\2\E\u\3\E\L\4\E/}Array;
+}
+
+public function set${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\u\1\E\L\2\E\u\3\E\L\4\E/}Array(\$${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\L\1\2\E\u\3\E\L\4\E/}, \$remove=0) {
+
+	if(\$remove == 0) {
+		array_push(\$this->${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\L\1\2\E\u\3\E\L\4\E/}Array, html_entity_decode(\$${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\L\1\2\E\u\3\E\L\4\E/}));
+
+	} else {
+		\$newArray = array();
+		foreach(\$this->${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\L\1\2\E\u\3\E\L\4\E/}Array as \$arr) {
+			if(\$${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\L\1\2\E\u\3\E\L\4\E/} != \$arr) {
+				array_push(\$newArray, \$arr);
+			}
+		}
+		\$this->${SELECTION/(\w)([a-z]+)(\w)([a-z]+)/\L\1\2\E\u\3\E\L\4\E/}Array = \$newArray;
+	}
+
+}
+
+]]></content>
+</snippet>

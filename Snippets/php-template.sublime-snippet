@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+\$${1:template} = new Template('${2:view/${3:components||templates}/${4:module}.tpl.php}');
+\$${1:template}->injectData = ${5:\$results};
+${6:\$${1:template}->__set('module_tpl', '${7:view/components/product-module-qty.tpl.php}');}
+
+echo \$${1:\$template}->render();
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>phptpl</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

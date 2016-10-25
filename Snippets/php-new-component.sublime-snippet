@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+<?php
+/*-----------------------------------------------------------------------------
+>> ${1:Component_Name}
+-----------------------------------------------------------------------------*/
+
+	// Includes
+	include_once "controller/ctl_template.php";
+
+	// Injected Data
+	if (isset(\$this) && \$this != null && count(\$this->injectData) > 0) {
+		if(isset(\$this->injectData['injectData'])) {
+			\$${2:data} = \$this->injectData['injectData'];
+		} else {
+			\$${2:data} = \$this->injectData;
+		}
+	}
+
+	// Plugin module data
+	$3
+
+?>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tpl</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.php</scope> -->
+</snippet>

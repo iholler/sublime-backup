@@ -1,0 +1,26 @@
+{
+  "scope": "source.scss",
+  "completions":
+  [
+    { "trigger": "mmixxs",   "contents": "@media screen and (min-width: \\$screen-xxs) {}"     },
+    { "trigger": "mmaxxs",   "contents": "@media screen and (max-width: \\$screen-xxs-max) {}" },
+
+    { "trigger": "mmixs",    "contents": "@media screen and (min-width: \\$screen-xs) {}"      },
+    { "trigger": "mmaxs",    "contents": "@media screen and (max-width: \\$screen-xs-max) {}"  },
+
+    { "trigger": "mmism",    "contents": "@media screen and (min-width: \\$screen-sm) {}"      },
+    { "trigger": "mmasm",    "contents": "@media screen and (max-width: \\$screen-sm-max) {}"  },
+
+    { "trigger": "mmimd",    "contents": "@media screen and (min-width: \\$screen-md) {}"      },
+    { "trigger": "mmamd",    "contents": "@media screen and (max-width: \\$screen-md-max) {}"  },
+
+    { "trigger": "mmilg",    "contents": "@media screen and (min-width: \\$screen-lg) {}"      },
+    { "trigger": "mmalg",    "contents": "@media screen and (max-width: \\$screen-lg-max) {}"  },
+
+    { "trigger": "mmixl",    "contents": "@media screen and (min-width: \\$screen-xl) {}"      },
+    { "trigger": "mmaxl",    "contents": "@media screen and (max-width: \\$screen-xl-max) {}"  },
+
+    { "trigger": "mmixxl",   "contents": "@media screen and (min-width: \\$screen-xxl) {}"     },
+    { "trigger": "mmaxxl",   "contents": "@media screen and (max-width: \\$screen-xxl-max) {}" }
+  ]
+}

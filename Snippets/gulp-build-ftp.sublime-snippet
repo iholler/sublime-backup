@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[gulp ftp --ftp --${2:dev} ]]></content>
+	<tabTrigger>gulp-ftp</tabTrigger>
+</snippet>

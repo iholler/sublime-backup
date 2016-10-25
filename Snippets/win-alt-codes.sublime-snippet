@@ -1,0 +1,94 @@
+<snippet>
+	<content><![CDATA[
+# ALT CODES
+« 0171
+» 0187
+
+## Math Symbols
++	43
+-	45
+±	241
+×	0215
+÷	246
+≠	8800
+∼	126
+≈	247
+=	0061
+≅	8773
+∫	8747
+≡	240
+%	37
+<	60
+≤	243
+>	62
+≥	242
+‰	0137
+√	251
+∝	8733
+∞	236
+∠	8736
+∴	8756
+∑	228
+π	227
+
+## Fractions
+½	171
+⅓	8531
+⅔	8532
+¼	172
+¾	0190
+⅕	8533
+⅖	8534
+⅗	8535
+⅘	8536
+⅙	8537
+⅚	8538
+⅛	8539
+⅜	8540
+⅝	8541
+⅞	8542
+
+## Superscripts
+⁰	8304
+¹	0185
+²	0178
+³	0179
+⁴	8308
+⁵	8309
+⁶	8310
+⁷	8311
+⁸	8312
+⁹	8313
+
+## Subscripts
+₀	8320
+₁	8321
+₂	8322
+₃	8323
+₄	8324
+₅	8325
+₆	8326
+₇	8327
+₈	8328
+₉	8329
+
+## Currencies
+\$	36
+¢	0162
+€	8364
+£	0163
+¤	0164
+¥	0165
+₨	8360
+₪	8362
+₫	8363
+₣	8355
+₤	8356
+ƒ	0131
+₧	158
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>alt-codes</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

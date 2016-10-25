@@ -1,0 +1,13 @@
+<snippet>
+<content>
+<![CDATA[<?php /*${SELECTION/(.*)/\n\1\n/i}*/?>]]>
+</content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>phpwrap+</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <!-- <scope>source.php</scope> -->
+    <!-- Optional: Description to show in the menu -->
+    <description>PHP Commenter Plus</description>
+</snippet>
+
+

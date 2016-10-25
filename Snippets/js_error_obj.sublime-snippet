@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+var ${1:name}s = [], ${1:name}Obj;
+if (true) {
+	${1:name}Obj = {};
+	${1:name}Obj.bug  = "";
+	${1:name}Obj.note = "";
+	${1:name}s.push(${1:name}Obj);
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>stuffit</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

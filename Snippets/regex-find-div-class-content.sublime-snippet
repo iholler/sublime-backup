@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+(?:<div\s*((?:.(?!((class)\=\")))+.)?\s*class\=\")((.(?!("|')))+.)(?:")
+]]></content>
+	<!-- Find all divs and match their class="{{content}}" -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

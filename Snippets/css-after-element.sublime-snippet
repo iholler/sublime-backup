@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+content: "";
+display: block;
+position: absolute;
+width: 100%;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+background: red;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>after</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.scss</scope> -->
+</snippet>

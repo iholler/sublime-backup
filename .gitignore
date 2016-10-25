@@ -1,0 +1,12 @@
+# ignore these files on commit
+
+Package Control.last-run
+Package Control.merged-ca-bundle
+Package Control.sublime-settings
+Package Control.system-ca-bundle
+Package Control.user-ca-bundle
+TextPastryHistory.sublime-settings
+Xdebug.breakpoints
+Xdebug.expressions
+TimeTracker/
+*.pyc

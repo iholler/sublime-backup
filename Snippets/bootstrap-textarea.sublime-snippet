@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<label class="comments">
+	<span class="placeholder">${1:Notes}</span>
+	<textarea
+		class="form-control"
+		id="VIC_${2:VariableName}"
+		onblur=""
+		placeholder="${1:Notes}..."
+	>${2: Remember to trim whitespace between content and open and closing textarea tags.}</textarea>
+</label>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs-textarea</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

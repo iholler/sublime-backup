@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+toggleDataByType : function(element, dataType) {
+	var \$el, attribute, currentVal, newVal;
+
+	if (typeof(element) == 'object' && element instanceof jQuery) {
+		\$el = element;
+	} else {
+		\$el = \$(element);
+	}
+
+	if (dataType == 'toggleText') {
+		currentVal = \$el.text();
+	} else {
+		currentVal = \$el.attr(dataType);
+	}
+
+	newVal     = \$el.data(dataType);
+
+	// swap values
+	if (dataType == 'toggleText') {
+		\$el.text(newVal).data(dataType, currentVal);
+	} else {
+		\$el.attr(dataType, newVal).data(dataType, currentVal);
+	}
+
+}
+]]></content>
+</snippet>

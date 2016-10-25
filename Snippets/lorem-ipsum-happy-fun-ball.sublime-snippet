@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Happy Fun Ball contains a liquid core, which, if exposed due to rupture, should not be touched, inhaled, or looked at. Do not use Happy Fun Ball on concrete. If Happy Fun Ball begins to smoke, get away immediately. Seek shelter and cover head. Happy Fun Ball may stick to certain types of skin. When not in use, Happy Fun Ball should be returned to its special container and kept under refrigeration. Failure to do so relieves the makers of Happy Fun Ball, Wacky Products Incorporated, and its parent company, Global Chemical Unlimited, of any and all liability. Ingredients of Happy Fun Ball include an unknown glowing green substance which fell to Earth, presumably from outer space. Do not taunt Happy Fun Ball.
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>happyfunball</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

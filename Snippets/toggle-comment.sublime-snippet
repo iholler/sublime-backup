@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[//*
+${1:someCode();}
+//*/
+]]></content>
+	<!-- <tabTrigger>tog</tabTrigger> -->
+	<!-- <scope>source.js</scope> -->
+</snippet>

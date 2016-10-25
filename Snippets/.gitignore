@@ -1,0 +1,4 @@
+# Ignore these files during commits
+
+## Security Access Token -- super stupid if you upload this file. ;{>
+github-git-personal-access-token.sublime-snippet

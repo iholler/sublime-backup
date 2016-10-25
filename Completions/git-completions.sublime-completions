@@ -1,0 +1,10 @@
+{
+  "scope": "source, text",
+  "completions":
+  [
+    { "trigger": "git, git-log",        "contents": "git log --pretty=tformat:\"%Cgreen%ai %Creset%m %s\" --reverse --after=\"${1:2016-9-14}\" --before=\"${2:2016-10-1}\" --author=\"sking\" --no-merges" },
+    { "trigger": "git, git-stash",      "contents": "git stash-rename stash@{0} ${1:new-stash-name}"                                                                                                       },
+    { "trigger": "git, git-del-remote", "contents": "git push origin --delete ${1:the_remote_branch}"                                                                                                      },
+    { "trigger": "git, git-diff",       "contents": "git difftool ${1:parent_commit_hash} ${2:child_commit_hash} ${3:path/to/file.php}"                                                                    },
+  ]
+}

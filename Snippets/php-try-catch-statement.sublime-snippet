@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+try {
+	if(!isset(${1:\$variable})){
+		throw new Exception("This module requires your data be encapsulated in a \\${1:variable} variable.", 1);
+	}
+} catch (Exception \$e) {
+	error_log("===========================================================");
+	error_log("ERROR_LOG: ". \$e->getMessage());
+	error_log("===========================================================");
+	echo '<div class="alert alert-danger" role="alert">Caught Exception: '.\$e->getMessage().'</div><br/>';
+	return;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>try</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

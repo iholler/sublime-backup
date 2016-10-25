@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+function walk(elm) {
+	var node;
+
+	// ...handle this element's `style` or `getComputedStyle`...
+	${1:if (\$(elm).css('border-bottom-right-radius') == '8px') {
+		console.log(\$(elm)[0]);
+	\}}
+
+	// Handle child elements
+	for (node = elm.firstChild; node; node = node.nextSibling) {
+		if (node.nodeType === 1) { // 1 == Element
+			walk(node);
+		}
+	}
+}
+
+// Kick it off starting with the `body` element
+walk(document.body);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

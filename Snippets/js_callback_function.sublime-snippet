@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+function ${1:callBackFunction}(el, callback) {
+	var handler = callback || function(callback) {};
+
+	\$(el).addEventListener('event', function(e, parameter) {
+		handler(parameter);
+	}
+}
+
+${1:callBackFunction}(el, function(callback) {
+	// do something
+
+});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>callback</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

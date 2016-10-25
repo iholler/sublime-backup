@@ -1,0 +1,10 @@
+{
+  "scope": "source.html, source.php, source.js",
+  "completions":
+  [
+    { "trigger": "docr|docready|ready",
+    	"contents":
+    	"if (document.readyState === 'complete') {\n\t$1\n} else {\n\t\\$(document).ready(function(){\n\t\t$1\n\t});\n}"
+   	},
+  ]
+}

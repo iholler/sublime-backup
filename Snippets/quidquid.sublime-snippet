@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Quidquid latine dictum sit, altum sonatur. - Whatever is said in Latin sounds profound.
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>quidquid</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
