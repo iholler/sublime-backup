@@ -1,0 +1,12 @@
+[
+   {
+      "command": "move_to",
+      "args":{"to": "eol", "extend": false}
+   },
+   {
+      "command": "join_lines"
+   },
+   {
+      "command": "left_delete"
+   }
+]
