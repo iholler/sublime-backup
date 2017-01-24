@@ -1,0 +1,7 @@
+{
+  "scope": "source, text",
+  "completions":
+  [
+    { "trigger": "npm, npm list", "contents": "npm list -g --depth=0" }
+  ]
+}

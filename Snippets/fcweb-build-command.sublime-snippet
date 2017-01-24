@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+gulp ftp --ftp --dev && gulp build --live && open
+]]></content>
+<tabTrigger>buildit</tabTrigger>
+</snippet>

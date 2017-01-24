@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+ssh wbmdev@wbmdev.vic.com
+#<password>
+tail -f logs/error_log
+]]></content>
+</snippet>

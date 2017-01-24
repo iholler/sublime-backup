@@ -1,0 +1,7 @@
+[
+  { "caption": "Focus: Writer",                "command": "view_mode", "args": {"mode": "focus_writer",      "distraction_free": true} },
+  { "caption": "Focus: Debug",                 "command": "view_mode", "args": {"mode": "php_debug",         "distraction_free": false} },
+  { "caption": "Focus: JS",                    "command": "view_mode", "args": {"mode": "js_focus",          "distraction_free": false} },
+  { "caption": "Focus: JS - Distraction Free", "command": "view_mode", "args": {"mode": "js_focus",          "distraction_free": true} },
+  { "caption": "Focus: JS - Left", 						 "command": "view_mode", "args": {"mode": "focus_left_gutter", "distraction_free": false} }
+]

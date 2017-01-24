@@ -1,0 +1,17 @@
+{
+    "files": [],
+    "groups": {
+        "Template Layout": [
+            "C:\\Users\\Stephen\\Downloads\\httpdocs-2017-01-16\\httpdocs\\templates\\rt_cerulean\\html\\mod_roknavmenu\\themes\\gantry-dropdown\\layout.php",
+            "C:\\Users\\Stephen\\Downloads\\httpdocs-2017-01-16\\httpdocs\\templates\\rt_cerulean\\index.php",
+            "C:\\Users\\Stephen\\Downloads\\httpdocs-2017-01-16\\httpdocs\\templates\\rt_cerulean\\features\\branding.php",
+            "C:\\Users\\Stephen\\Downloads\\httpdocs-2017-01-16\\httpdocs\\libraries\\cms\\application\\site.php"
+        ],
+        "wamp host files": [
+            "C:\\wamp\\bin\\apache\\apache2.4.9\\conf\\httpd.conf",
+            "C:\\Windows\\System32\\drivers\\etc\\hosts",
+            "C:\\wamp\\bin\\apache\\apache2.4.9\\conf\\extra\\httpd-vhosts.conf"
+        ]
+    },
+    "version": 1
+}

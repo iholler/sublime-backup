@@ -2,6 +2,8 @@
   "scope": "source.scss",
   "completions":
   [
+    { "trigger": "mmm",      "contents": "@media screen and (min-width: ${1:min}px) and (max-width: ${2:max}px) {${3://code...}}"     },
+
     { "trigger": "mmixxs",   "contents": "@media screen and (min-width: \\$screen-xxs) {}"     },
     { "trigger": "mmaxxs",   "contents": "@media screen and (max-width: \\$screen-xxs-max) {}" },
 

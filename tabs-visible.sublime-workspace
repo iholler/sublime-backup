@@ -1,0 +1,3160 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"item-footer",
+				"item-footer-menu"
+			],
+			[
+				"git",
+				"git, git-diff"
+			],
+			[
+				"module",
+				"moduleMenuPull"
+			],
+			[
+				"hidden-xs",
+				"hidden-xxs"
+			],
+			[
+				"mmi",
+				"mmism"
+			],
+			[
+				"window",
+				"window_width"
+			],
+			[
+				"modal-",
+				"modal-dialog-add-recipe-to-cal"
+			],
+			[
+				"hidden",
+				"hidden-xxs"
+			],
+			[
+				"hiden",
+				"hidden-xs"
+			],
+			[
+				"wor",
+				"word-wrap"
+			],
+			[
+				"doc",
+				"docr|docready|ready"
+			],
+			[
+				"bread",
+				"breadcrumb"
+			],
+			[
+				"pix",
+				"pixelRatio"
+			],
+			[
+				"lock",
+				"lockDocument"
+			],
+			[
+				"contine",
+				"contingency"
+			],
+			[
+				"onCl",
+				"onClickText"
+			],
+			[
+				"brows",
+				"browserSync"
+			],
+			[
+				"brow",
+				"browserSync"
+			],
+			[
+				"transform",
+				"transform\tcss-transform-scale"
+			],
+			[
+				"isQuick",
+				"isQuickNavSearch"
+			],
+			[
+				"widow",
+				"windowHeight"
+			],
+			[
+				"_s",
+				"_SERVER"
+			],
+			[
+				"setupCarou",
+				"setupCarouselBreaks"
+			],
+			[
+				"setupCarousels",
+				"setupModuleCarousels"
+			],
+			[
+				"resize",
+				"resizeCarouselHandler"
+			],
+			[
+				"detect",
+				"detectZoom"
+			],
+			[
+				"new",
+				"newURL"
+			],
+			[
+				"match",
+				"matchPattern"
+			],
+			[
+				"preg_match",
+				"preg_match"
+			],
+			[
+				"pregre",
+				"preg_replace_callback_array"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"ex",
+				"exclusion"
+			],
+			[
+				"regex",
+				"regexcept\tregex-anything-except"
+			],
+			[
+				"recipese",
+				"recipeSearchObj"
+			],
+			[
+				"end",
+				"encodedPowerSearch"
+			],
+			[
+				"closeButton",
+				"closeButtonSpan"
+			],
+			[
+				"active",
+				"activeElement"
+			],
+			[
+				"avail",
+				"availableOnClick"
+			],
+			[
+				"tabs",
+				"tabsToInclude"
+			],
+			[
+				"modal-dai",
+				"modal-dialog-recipe-detail"
+			],
+			[
+				"shop",
+				"shopIngredientsBtnTitle"
+			],
+			[
+				"getEl",
+				"getElementInfo"
+			],
+			[
+				"pintere",
+				"pinterstShareURL"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"pro",
+				"productCount"
+			],
+			[
+				"special",
+				"specialRequests"
+			],
+			[
+				"if",
+				"if\t<?php if (…) { ?> … <?php } ?>"
+			],
+			[
+				"u",
+				"usleep"
+			],
+			[
+				"draw",
+				"draw_indent_guides"
+			],
+			[
+				"Draw",
+				"draw_indent_guides"
+			],
+			[
+				"array_replace",
+				"array_replace_recursive"
+			],
+			[
+				"saveRe",
+				"saveReviewOnClick"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"Grou",
+				"groupCount"
+			],
+			[
+				"include",
+				"include"
+			],
+			[
+				"shopping-",
+				"shopping-list-item"
+			],
+			[
+				"Objec",
+				"objectToArray"
+			],
+			[
+				"echo",
+				"echo\techo \"…\""
+			],
+			[
+				"parent",
+				"parents\t.parents()"
+			],
+			[
+				"shift",
+				"Zero-fill right shift (>>>)"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"ingre",
+				"ingredUUID"
+			],
+			[
+				"qty",
+				"qtyControls"
+			],
+			[
+				"render",
+				"render"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"type",
+				"typeof(Object)\tObject"
+			],
+			[
+				"gitl",
+				"gitlab"
+			],
+			[
+				"hasa",
+				"hasAttribute(attrName)\tElement"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"ob_get",
+				"ob_get_contents"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"is_n",
+				"is_numeric"
+			],
+			[
+				"callback",
+				"forEach(callback)\tArray"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"msg_mod",
+				"msg_module_data"
+			],
+			[
+				"tpl",
+				"tpl\tphp_new_component"
+			],
+			[
+				"shopInged",
+				"shopIngredientsSearch"
+			],
+			[
+				"item",
+				"item_id"
+			],
+			[
+				"ero",
+				"error_log"
+			],
+			[
+				"config",
+				"config_json"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"watch_sync_",
+				"watch_sync_tombras"
+			],
+			[
+				"mdl_recipe",
+				"mdl_recipe_reviews"
+			],
+			[
+				"modal-dialog-",
+				"modal-dialog-delete-meal-cat"
+			],
+			[
+				"func",
+				"function without name"
+			],
+			[
+				"function",
+				"function without name"
+			],
+			[
+				"setTim",
+				"setTimeout(func, delay)\tWindow"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"fav",
+				"fav_recipes"
+			],
+			[
+				"stickyBar",
+				"stickyBarTimeout"
+			],
+			[
+				"stack",
+				"stackCount"
+			],
+			[
+				"foreach",
+				"foreach\tforeach …"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"reco",
+				"recommended"
+			],
+			[
+				"carry",
+				"carryOverDays"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"days",
+				"daysLeftInWeek"
+			],
+			[
+				"fore",
+				"foreach\tforeach …"
+			],
+			[
+				"null",
+				"null"
+			],
+			[
+				"Category",
+				"CategoryID"
+			],
+			[
+				"bcakg",
+				"background-color"
+			],
+			[
+				"error",
+				"error_log"
+			],
+			[
+				"numb",
+				"numberOfCategories"
+			],
+			[
+				"Repeat",
+				"RepeatOccurrence"
+			],
+			[
+				"s-",
+				"s-hcreate\tsql-show-create"
+			],
+			[
+				"occ",
+				"occurences"
+			],
+			[
+				"occu",
+				"occurrenceDate"
+			],
+			[
+				"erro",
+				"error_log"
+			],
+			[
+				"used",
+				"usedPlanColors"
+			],
+			[
+				"RegExp",
+				"new RegExp()\tRegExp"
+			],
+			[
+				"search",
+				"search_tpl"
+			],
+			[
+				"getRecipesF",
+				"getRecipeFavorites"
+			],
+			[
+				"modal-dialog-add",
+				"modal-dialog-add-meal-plan"
+			],
+			[
+				"firstDay",
+				"firstDayOfWeek"
+			],
+			[
+				"border-ra",
+				"border-radius-large"
+			],
+			[
+				"date",
+				"dateIteration"
+			],
+			[
+				"current",
+				"currentDayRel"
+			],
+			[
+				"class_day_wr",
+				"class_day_wrap_end"
+			],
+			[
+				"daysof",
+				"class_daysOfWeek_end"
+			],
+			[
+				"class_days",
+				"class_daysOfWeek"
+			],
+			[
+				"Class_m",
+				"class_month_end"
+			],
+			[
+				"encode",
+				"encodeURIComponent(URI)\tWindow"
+			],
+			[
+				"catego",
+				"categoryList"
+			],
+			[
+				"saveCalendar",
+				"saveCalendarCategory"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/JSHint/JSHint.sublime-build",
+					""
+				],
+				[
+					"Packages/User/php.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/JSHint/JSHint.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 60.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"synpython",
+				"Set Syntax: Python"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"openr",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"openre",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"synscss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"removedir",
+				"Snippet: remove-directory"
+			],
+			[
+				"removedire",
+				"Snippet: remove-directory"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"ofun",
+				"Snippet: js-object-function"
+			],
+			[
+				"synjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"coloed",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"synsh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"syn",
+				"Set Syntax: Markdown"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"packadis",
+				"Package Control: Disable Package"
+			],
+			[
+				"edit",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colorsubl",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"syn scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"phperr",
+				"Snippet: php-error"
+			],
+			[
+				"syncss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pres",
+				"Preferences: Settings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"syns",
+				"Set Syntax: SCSS"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"syntax text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"prefere",
+				"Preferences: Settings"
+			],
+			[
+				"snipjs",
+				"Snippet: js-doc-fragment"
+			],
+			[
+				"synbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"reverse",
+				"Permute Lines: Reverse"
+			],
+			[
+				"sniplog",
+				"Snippet: git-log-shortlog"
+			],
+			[
+				"coforscss",
+				"CodeFormatter: Format as SCSS Syntax"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"codeformate",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"csscom",
+				"Run CSScomb"
+			],
+			[
+				"snijscha",
+				"Snippet: js-mutation-observer-watch-css-class-change"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"disablelin",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"lintersett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"lintthis",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"synscs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"removpa",
+				"Package Control: Remove Package"
+			],
+			[
+				"linthis",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"syn bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"snippetdomwa",
+				"Snippet: js-dom-walk"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"colorsublime",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"remop",
+				"Package Control: Remove Package"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Snippet: git-remote-delete"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"enabli",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"synregex",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"textpastrym",
+				"Text Pastry: Command-Line"
+			],
+			[
+				"textpastry",
+				"Text Pastry: Menu"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"timetrak",
+				"TimeTracker: Open Dashboard"
+			],
+			[
+				"instlalp",
+				"Package Control: Install Package"
+			],
+			[
+				"instlal",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"snippetcss",
+				"Snippet: css-height-width"
+			],
+			[
+				"xdebug",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"xdebugstatus",
+				"Xdebug: Session - Status"
+			],
+			[
+				"yn scs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"phper",
+				"Snippet: phperror"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntap",
+				"Package Control: Install Package"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"urlen",
+				"StringEncode: URL Encode"
+			],
+			[
+				"synrege",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"getset",
+				"Snippet: php_get_set"
+			],
+			[
+				"urlde",
+				"StringEncode: URL Decode"
+			],
+			[
+				"encodeurl",
+				"StringEncode: URL Encode"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"snipre",
+				"Snippet: regex-anything-except"
+			],
+			[
+				"snipregex",
+				"Snippet: regex-anything-except"
+			],
+			[
+				"enablelin",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"get",
+				"Snippet: php_get_set"
+			],
+			[
+				"gsa",
+				"Snippet: php_get_set_arr"
+			],
+			[
+				"",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"getsetar",
+				"Snippet: php_get_set_arr"
+			],
+			[
+				"getsetarr",
+				"Snippet: php_get_set_arr"
+			],
+			[
+				"disablel",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"syn php",
+				"Set Syntax: PHP"
+			],
+			[
+				" lint show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"showall",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linthtis",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"toggle",
+				"Snippet: toggle-comment"
+			],
+			[
+				"EDITCOL",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"testpl",
+				"Snippet: Test Snippet - Key Binding ['ctrl+alt+shift+t']"
+			],
+			[
+				"split",
+				"Text Pastry: Split selection"
+			],
+			[
+				"synreg",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"textspli",
+				"Text Pastry: Split selection"
+			],
+			[
+				"sniphtml",
+				"Snippet: html"
+			],
+			[
+				"snippetsplit",
+				"Snippet: Test Snippet - Key Binding ['ctrl+alt+shift+t']"
+			],
+			[
+				"synh",
+				"Set Syntax: HTML"
+			],
+			[
+				"synph",
+				"Set Syntax: PHP"
+			],
+			[
+				"pretti",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"synjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"synsc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"togglecomm",
+				"Snippet: toggle-comment"
+			],
+			[
+				"jstoggl",
+				"Snippet: js-toggle-data-by-type"
+			],
+			[
+				"toggledata",
+				"Snippet: js-toggle-data-by-type"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 335.0,
+		"history":
+		[
+			"sublime.active_window().run_command('toggle_tabs')",
+			"sublime.active_window().run_command('toggle_distraction_free')",
+			"sublime.active_window().settings().set('show_tabs', False)",
+			"sublime.active_window().settings().get('show_tabs')",
+			"sublime.active_window().settings().set('show_tabs', True)",
+			"sublime.active_window().settings().get('show_tabs')",
+			"view = self.view;",
+			"self.view",
+			"self",
+			"print(sublime.active_window().settings().get('word_wrap'))",
+			"print(sublime.active_window().settings().get('line_numbers'))",
+			"print(sublime.active_window().settings().get('tabs_visible'))",
+			"sublime.active_window().settings().get('tabs_visible')",
+			"sublime.active_window().get('rulers', 'Default')",
+			"sublime.active_window().get('rulers')",
+			"sublime.active_window().get()",
+			"sublime.active_window()",
+			"sublime.active_window_status()",
+			"sublime.__active_window_status",
+			"self.__active_window_status",
+			"echo \"\\n\" * 100",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"ddff",
+			"pprint.pprint(sublime.Region)",
+			"pprint.pprint(sublime.Region())",
+			"pprint.pprint(sublime.Region(220, 0))",
+			"pprint.pprint(sublime.Region(0, self.view.size()))",
+			"import pprint",
+			"sublime.Region(220, 0)",
+			"sublime.Region(220)",
+			"sublime.Region(10)",
+			"sublime.Region(0)",
+			"sublime.Region(0, sublime.Region.view.size())",
+			"sublime.Region(0, sublime.view.size())",
+			"sublime.Region(0, self.view.size())",
+			"print(self.view.find(\"go_to_lineCommand\", 0))",
+			"print(self.view.find(\"go_to_lineCommand\", 0)",
+			"echo \\n",
+			"echo \"\\n\"",
+			"echo \"\\n\" * 100",
+			"print \"\\n\"",
+			"print \"\\n\" x 100",
+			"print \"\\n\" * 100",
+			"print \"\\n\"*100",
+			"print \\n * 100",
+			"print \\n *100",
+			"import sublime",
+			"df",
+			"view.erase_phantoms(\"test\")",
+			"view.add_phantom(\"test\", view.sel()[0], \"Hello, World!\", sublime.LAYOUT_BLOCK)",
+			"sublime.log_commands(True)",
+			"echo \"Ha\";",
+			"echo \"Ha\"",
+			"ha",
+			"console.log('ha')",
+			"echo 'HA'",
+			"echo HA",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"\tsublime.log_commands(True)",
+			"window.get_layout()",
+			"view.substr(0, 500)",
+			"import webbrowser; webbrowser.open(\"https://www.google.com\")",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"window.get_layout()",
+			"view.substr(0, 500)",
+			"view.substr(0, (view.size()))",
+			" view.substr(0, (view.size()))",
+			"view.substr(0, view.size())",
+			" view.substr(0, view.size())",
+			"asdf",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"view.run_command(\"strip\")",
+			"view.run_command(\"stripextraspace\")",
+			"view.run_command(\"split\")",
+			"runCommand('split')",
+			"view.runCommand('split')",
+			"sublime.run('split')",
+			"# run_multiple_commands.py",
+			"sublime.log_commands(True)",
+			"sublime.clear()",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.clear()",
+			"sublime",
+			"sublime.clear()",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"where linter",
+			"# run_multiple_commands.py",
+			"-help",
+			"help",
+			"\\help",
+			"/help",
+			"/clear",
+			"clear",
+			"where linter",
+			"cmd",
+			"file_diff_menu",
+			"get://github.com/sokolovstatas/SublimeWebInspector.git Web\\Inspector",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/Context.sublime-menu",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/view_mode_focus_writer.py",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/Main.sublime-menu",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Local/Session.sublime_session",
+		"/C/Program Files/Sublime Text 3/Packages/Default.sublime-package",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/Default/settings.py",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/FullScreenStatus/main.py",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/Default/font.py",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/Default/Default.sublime-commands",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/Default/echo.py",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/Default/send2trash/plat_win.py",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/tabs-visible.sublime-project",
+		"/C/wamp/www/fcweb-2/src/view/templates/components/shopping-lists-edit.tpl.php",
+		"/C/wamp/www/fcweb-2/src/view/shopping-list-detail.php",
+		"/C/wamp/www/fcweb-2/src/js/globals.js",
+		"/C/wamp/www/fcweb-2/src/css/scss/partials/_responsive.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/partials/_recipes.scss",
+		"/C/wamp/www/fcweb-2/notes/screen-size-variables.scss",
+		"/C/wamp/www/fcweb-2/src/view/templates/components/shopping-cart-list.tpl.php",
+		"/C/wamp/www/fcweb-2/src/view/shopping-cart.php",
+		"/C/wamp/www/fcweb-2/src/view/cart/cartdetails.php",
+		"/C/wamp/www/notes/brand-naming-word-bank.txt",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/win-alt-codes.sublime-snippet",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/underscore.sublime-snippet",
+		"/C/wamp/www/fcweb-2/src/view/recipes/search-recipes.php",
+		"/C/wamp/www/fcweb-2/src/view/recipes/search-recipe-filters.php",
+		"/C/wamp/www/fcweb-2/src/view/search/search-toolbar.php",
+		"/C/wamp/www/fcweb-2/src/controller/ctl_search.php",
+		"/C/wamp/www/fcweb-2/src/view/search/searchLayout-lazyload.php",
+		"/C/wamp/www/fcweb-2/src/js/main.js",
+		"/C/wamp/www/fcweb-2/src/view/templates/components/filters.tpl.php",
+		"/C/wamp/www/fcweb-2/src/view/search/filter_content.php",
+		"/C/wamp/www/fcweb-2/src/objects/Search.php",
+		"/C/wamp/logs/php_error.log",
+		"/C/wamp/www/fcweb-2/src/view/meal-planner/plan-details.php",
+		"/C/wamp/www/fcweb-2/src/view/components/mr-module-menu.php",
+		"/C/wamp/www/fcweb-2/src/view/recipes/recipe-detail.php",
+		"/C/wamp/www/fcweb-2/src/js/recipes.js",
+		"/C/wamp/www/fcweb-2/src/css/scss/partials/_modifiers.scss",
+		"/C/wamp/www/fcweb-2/src/view/recipes/recipe-controls.php",
+		"/C/wamp/www/fcweb-2/src/view/recipes/recipe-module.php",
+		"/C/Users/Stephen/Desktop/timelog.md",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/Completions/git-completions.sublime-completions",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/css-height-width.sublime-snippet",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/git-log-shortlog.sublime-snippet",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/git-difftool-commits-on-file.sublime-snippet",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/git-remote-delete.sublime-snippet",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/git-stash-rename.sublime-snippet",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/github-git-personal-access-token.sublime-snippet",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/Completions/css-completions.sublime-completions",
+		"/C/wamp/www/fcweb-2/src/view/meal-planner/meal-recipe-center.php",
+		"/C/wamp/www/fcweb-2/src/model/mdl_circulars.php",
+		"/E/pmp_usb.ini",
+		"/C/wamp/www/fcweb-2/src/css/scss/partials/vic.scss",
+		"/C/wamp/www/fcweb-2/src/view/recipes/my-recipes.php",
+		"/C/wamp/www/fcweb-2/src/view/recipes/ingredient-search.php",
+		"/C/wamp/www/fcweb-2/src/view/meal-planner/meal-planner-home.php",
+		"/C/wamp/www/fcweb-2/src/css/scss/partials/_responsive-utils.scss",
+		"/C/wamp/www/fcweb-2/src/controller/ctl_meal_planner.php",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/foodcity/ui/_type.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/foodcity/ui/_breadcrumbs.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/partials/_responsive-navbar.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/foodcity/components/_main-header.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/partials/_product-modules.scss",
+		"/C/wamp/www/fcweb-2/gulpfile.js",
+		"/C/wamp/www/fcweb-2/src/view/templates/module-items-grouped-ingredients.tpl.php",
+		"/C/wamp/www/fcweb-2/src/view/components/module-carousel.php",
+		"/C/wamp/www/fcweb-2/src/css/scss/partials/_responsive-getcooking-pg.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/bootstrap/_variables.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/partials/_meal-plan.scss",
+		"/C/wamp/www/fcweb-2/src/view/meal-planner/plan-days.php",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/foodcity/_vars.scss",
+		"/C/wamp/www/fcweb-2/src/view/templates/components/shop-detail-module.tpl.php",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/foodcity/components/_product-detail.scss",
+		"/C/wamp/www/fcweb-2/src/view/shop-detail.php",
+		"/C/wamp/www/fcweb-2/src/view/meal-planner/modal-dialog-add-recipe.php",
+		"/C/wamp/www/fcweb-2/src/view/meal-planner/recipe-dock.php",
+		"/C/wamp/www/fcweb-2/src/js/meal-plan.js",
+		"/C/wamp/www/fcweb-2/src/view/meal-planner/modal-dialog-add-meal-plan.php",
+		"/C/wamp/www/fcweb-2/src/view/footer.php",
+		"/C/wamp/www/fcweb-2/src/view/meal-planner/plan-month.php",
+		"/C/wamp/www/fcweb-2/src/controller/ctl_template_ob.php",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/wamp/www/fcweb-2/src/css/scss/partials/_responsive-mealplanner.scss",
+		"/C/wamp/www/fcweb-2/src/view/components/user-editable-input.php",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/bootstrap/_grid.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/bootstrap/mixins/_grid-framework.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/partials/_meal-plan-month.scss",
+		"/C/Users/Stephen/.bashrc",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/Themes/blueholler.tmTheme",
+		"/C/wamp/www/notes/branding-questionaire.md",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/emoji-anger.sublime-snippet",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/quidquid.sublime-snippet",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/bootstrap/_breadcrumbs.scss",
+		"/C/wamp/www/fcweb-2/src/controller/ctl_recipes.php",
+		"/C/wamp/www/fcweb-2/src/css/scss/partials/_responsive-sidebar-nav.scss",
+		"/C/wamp/www/fcweb-2/src/view/templates/components/navbar.tpl.php",
+		"/C/wamp/www/fcweb-2/src/view/templates/components/global-search-navbar.tpl.php",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/bootstrap/mixins/_responsive-visibility.scss",
+		"/C/wamp/www/fcweb-2/build/css/main.css",
+		"/C/wamp/www/sublime_projects/fcweb-2.sublime-project",
+		"/C/wamp/www/fcweb-2/src/view/templates/global/sys-modal-dialog.tpl.php",
+		"/C/wamp/www/fcweb-2/src/view/meal-planner/modal-dialog-add-item.php",
+		"/C/wamp/www/fcweb-2/src/objects/MealPlannerItem.php",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/foodcity/_base.scss",
+		"/C/wamp/www/fcweb-2/src/controller/jsIncludes.php",
+		"/C/wamp/www/fcweb-2/src/js/vendor/dragula/dragula.min.js",
+		"/C/wamp/www/fcweb-2/gulp-tasks/sass.js",
+		"/C/wamp/www/fcweb-2/npm-shrinkwrap.json",
+		"/C/wamp/www/fcweb-2/package.json",
+		"/C/wamp/www/fcweb-2/gulp-tasks/watch.js",
+		"/C/wamp/www/fcweb-2/src/css/scss/partials/_animations.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/bootstrap/mixins/_odd-grid-framework.scss",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/css-after-element.sublime-snippet",
+		"/C/Users/Stephen/AppData/Roaming/Sublime Text 3/Packages/Colorsublime - Themes/blockninja.tmTheme",
+		"/C/Users/Stephen/Desktop/golden-ratio-calculator",
+		"/C/wamp/www/fcweb-2/src/css/scss/partials/_buttons.scss",
+		"/C/wamp/www/fcweb-2/src/view/meal-planner/modal-dialog-add-recipe-to-calendar.php",
+		"/C/wamp/www/fcweb-2/src/css/scss/partials/_responsive-quicknav.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/foodcity/mixins/_vendor-prefixes.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/foodcity/keyframes/_general-keyframes.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/foodcity/components/_quick-cart.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/foodcity/ui/_buttons.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/bootstrap/_component-animations.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/bootstrap/_buttons.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/bootstrap/mixins/_vendor-prefixes.scss",
+		"/C/wamp/www/fcweb-2/src/css/scss/vendor/bootstrap/_mixins.scss"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 254.0,
+		"where_history":
+		[
+			"",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.js",
+			"",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"",
+			"*.js",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"*.js",
+			"*.scss",
+			".scss",
+			"",
+			"*.scss",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"",
+			"*.php",
+			"*.scss",
+			"",
+			"*.scss",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"",
+			"*.php",
+			"*.scss",
+			"*.js",
+			"*.php",
+			"*.js",
+			"",
+			"*.js",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"",
+			"*.scss",
+			"*.php",
+			"*_responsive-*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.scss",
+			"",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.scss",
+			"*.php",
+			"*.js",
+			"",
+			"*.scss",
+			"*.php",
+			"*_responsive*.scss",
+			"",
+			"*_responsive*.scss",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.js",
+			"",
+			"*.php",
+			"",
+			"*.js",
+			"*.scss",
+			"",
+			"*.php",
+			"*.scss",
+			"",
+			"*",
+			"*.php|*.js",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"show_tabs",
+			"tab",
+			"tabs_visible",
+			"visible",
+			"self.tabs_visible",
+			"toggle_tabs",
+			"tabs",
+			"toggleTabsCommand",
+			"toggle_tabs",
+			"toggle_",
+			"fss_on_distraction_free",
+			"toggle_full_screen",
+			"plugin_loaded",
+			"Comments or substitutions",
+			"comments",
+			"Footer",
+			"dropdown",
+			"include",
+			"hide related recipes",
+			"dropdown-",
+			"hide related recipes",
+			"related",
+			"item-note",
+			"mobileNotesClass",
+			"note",
+			"item-notes-",
+			"item-notes",
+			"item-footer-menu",
+			"Things.length",
+			"item-footer-menu",
+			"$item",
+			"dropdown",
+			"$item",
+			"foreach",
+			"item-footer-menu",
+			"recipes",
+			"data-target=\"#",
+			"footer",
+			"dropdown",
+			"div:first-of-type",
+			"$showRelatedRecipes",
+			"dropdown",
+			"ico-drawer",
+			"ico-inbox",
+			"dropdown",
+			"...",
+			"dropdown-",
+			"Show Related Recipes",
+			"include",
+			"related",
+			"...",
+			"include",
+			" »",
+			"▲",
+			",",
+			"filters",
+			"filters-container",
+			"filters",
+			"section",
+			"filter-category",
+			"recipes",
+			"-recipes",
+			"id=\"filter-categories\"",
+			"section",
+			"getSearchFilters",
+			"filters",
+			"filters-container-modal",
+			"lazy",
+			"filters-container-modal",
+			"filters",
+			"grid",
+			"list",
+			"list-lazyload",
+			"grid-lazyload",
+			"searchlayout-lazyload",
+			"$searchObj",
+			"$results['results']",
+			"search-toolbar",
+			"header",
+			"searchSort",
+			"search-toolbar.",
+			"search-recipes.php",
+			"search-",
+			"search-toolbar.",
+			"search-",
+			"class=\"btn-group toggle-grid-view pull-right\"",
+			"aside",
+			"tool",
+			"h1",
+			"h3",
+			"mr-module-menu.php",
+			"my recipe",
+			"recipe results for",
+			"index.php?vica=ctl_meal_planner&vicb=showMealRecipeCenter&vicc=p",
+			"add to my recipes",
+			"add to my",
+			"added to my",
+			"button1",
+			"tooltip",
+			"echo",
+			"$fav_tooltip_toggle_txt",
+			"fav_tooltip_toggle_txt",
+			"$fav_tooltip_toggle_txt",
+			"fav_tooltip_txt",
+			"$plan_tooltip",
+			"plan_tooltip",
+			".touch {",
+			"tooltip",
+			".data('tooltipToggleText', originalTitle)",
+			":",
+			"tooltip success",
+			"favorites",
+			"focus",
+			"hover",
+			"figure-wrap",
+			"focus",
+			"background-color",
+			"hover",
+			"focus",
+			".module-controls",
+			"$html",
+			"setuptooltips",
+			"tooltip",
+			"data-toggle=\"tooltip\"",
+			"onclick=\"void(0)\"",
+			"nclick=\"<?php echo $",
+			"data-style=\"info\"",
+			"removeclass('is-fav'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"col-xxs-12 col-xs-6 filter-column",
+			"hidden-xxs hidden-xs",
+			"$1",
+			"col-xxs-$2 $0",
+			"hidden-xxs hidden-xs",
+			"hidden-xs col-sm-12",
+			"w: $1  w: $2",
+			"\\s",
+			"\\s</span>",
+			"$1\\n$2",
+			") {",
+			"$1\\n$2",
+			"} else {",
+			"$1\\n$2",
+			"} $2 {",
+			"}\\s$2\\s{",
+			"$1\\n$2",
+			"\\n$1",
+			"$1\\n$2",
+			"$1 $4",
+			"$4",
+			"$3",
+			"$2",
+			"$1",
+			"$1$2{",
+			"$1 $2{",
+			"$1$2{",
+			"$1$2 {",
+			"$1$2",
+			"$1$3",
+			"$1 $3",
+			"$1 $2",
+			"} else {",
+			"",
+			"? \", 1\" : \", 0\"",
+			"$1$3$4is-hidden$6",
+			"$1$3$4$6",
+			"$1$3$4$5$6$7",
+			"$1$3$4$5$6",
+			"$5",
+			"$4",
+			"$1$3$4",
+			"$2",
+			"$1",
+			"$1 $2 $3",
+			"$2 $3",
+			"$1 $2 $3",
+			"btnClipped-<?php",
+			"id=\"btnClip-<?php",
+			"$('#btnClipped-'+offerID)",
+			"$('#btnClip-'+offerID)",
+			"$2",
+			"$1",
+			"$1 $2",
+			"@include mealPlanStyleIncrementer(8,",
+			"['IsLocal'] = true;",
+			"vic.utils.showModal($('#modal-dialog-add-meal-plan'), vic.mealplan.setupModalDatePicker)",
+			"-1000",
+			"modal-body modal-module-wrap row",
+			"class=\"modal-body row items-modal\" id=\"itemsModal\"",
+			"$2g",
+			"cooking",
+			"$4",
+			"$1",
+			"$3",
+			"$2",
+			"$0",
+			"$1",
+			"$2",
+			"new Template(",
+			"new Template_Ob(",
+			"include_once \"controller/ctl_template_ob.php\";",
+			"",
+			"\\(\\n",
+			"(\\n",
+			"&",
+			"&v",
+			"?>",
+			"<?php",
+			"&amp;",
+			"$1data-",
+			" data-",
+			"href=\\\"index.php?vica=ctl_recipes&amp;vicb=showMyRecipes&amp;vicc=p\\\"",
+			"href=\\\"index.php?vica=ctl_recipes&amp;vicb=showMyRecipes&amp;vicc=p\\\"\"",
+			"if($0=$0){match}",
+			"$0 \\n match1: $1 | match2: $* | match3: $3",
+			"$0 \\n match1: $1 | match2: $ | match3: $3",
+			"$0 \\n match1: $1 | match2: $2 | match3: $3",
+			"match1: $1 | match2: $2 | match3: $3",
+			"$1          $2               $3          $4",
+			"echo $2; ?>",
+			"",
+			"$_SERVER['HTTP_HOST']",
+			"",
+			", $_SESSION['HTTP_HOST']+\"",
+			"$_SESSION['HTTP_HOST']",
+			"<link rel=\"icon\" href=\"<?php echo $SESSION['HTTP_HOST']; ?>/images/ico/favicon.ico\">",
+			"setupCarouselBreaks",
+			"",
+			"env",
+			"moduleSwitch.php",
+			"product-module-wrap",
+			"$1view$2templates$2components$2",
+			"$1view$2templates$2components",
+			"src_files",
+			"src/",
+			"gulp.src",
+			"src_files",
+			"('view/templates/",
+			"\"view/",
+			"\"view/templates/",
+			"view/email",
+			"images/cms-images",
+			"setupModuleCarousels",
+			"templates",
+			"\"templates",
+			"../images/",
+			"",
+			"scss",
+			"css",
+			"js",
+			"images",
+			"js",
+			"images",
+			"../images",
+			"view${2}${3}",
+			"",
+			"My Calendar"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"bs_sintax": "plain text",
+							"function_name_status_row": 0,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 64.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 220.0
+	},
+	"output.find_results":
+	{
+		"height": 404.0
+	},
+	"output.markdown":
+	{
+		"height": 112.0
+	},
+	"output.xdebug":
+	{
+		"height": 202.0
+	},
+	"pinned_build_system": "",
+	"project": "tabs-visible.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"shopplistedttpl",
+				"fcweb-2\\src\\view\\templates\\components\\shopping-lists-edit.tpl.php"
+			],
+			[
+				"responsive.scss",
+				"fcweb-2\\src\\css\\scss\\partials\\_responsive.scss"
+			],
+			[
+				"recipes.scss",
+				"fcweb-2\\src\\css\\scss\\partials\\_recipes.scss"
+			],
+			[
+				"globa",
+				"fcweb-2\\src\\js\\globals.js"
+			],
+			[
+				"global",
+				"fcweb-2\\src\\js\\globals.js"
+			],
+			[
+				"responsivescss",
+				"fcweb-2\\src\\css\\scss\\partials\\_responsive.scss"
+			],
+			[
+				"screenv",
+				"fcweb-2\\notes\\screen-size-variables.scss"
+			],
+			[
+				"recipesscss",
+				"fcweb-2\\src\\css\\scss\\partials\\_recipes.scss"
+			],
+			[
+				"shoppinglistedit",
+				"fcweb-2\\src\\view\\templates\\components\\shopping-lists-edit.tpl.php"
+			],
+			[
+				"shocart",
+				"fcweb-2\\src\\view\\shopping-cart.php"
+			],
+			[
+				"search-re",
+				"fcweb-2\\src\\view\\recipes\\search-recipes.php"
+			],
+			[
+				"searchlay",
+				"fcweb-2\\src\\view\\search\\searchLayout-lazyload.php"
+			],
+			[
+				"search-toolbar.php",
+				"fcweb-2\\src\\view\\search\\search-toolbar.php"
+			],
+			[
+				"php",
+				"wamp logs\\php_error.log"
+			],
+			[
+				"search-recipes",
+				"fcweb-2\\src\\view\\recipes\\search-recipes.php"
+			],
+			[
+				"mr-",
+				"fcweb-2\\src\\view\\components\\mr-module-menu.php"
+			],
+			[
+				"recipede",
+				"fcweb-2\\src\\view\\recipes\\recipe-detail.php"
+			],
+			[
+				"modif",
+				"fcweb-2\\src\\css\\scss\\partials\\_modifiers.scss"
+			],
+			[
+				"main.js",
+				"fcweb-2\\src\\js\\main.js"
+			],
+			[
+				"recimod",
+				"fcweb-2\\src\\view\\recipes\\recipe-module.php"
+			],
+			[
+				"recip.js",
+				"fcweb-2\\src\\js\\recipes.js"
+			],
+			[
+				"mdlcir",
+				"fcweb-2\\src\\model\\mdl_circulars.php"
+			],
+			[
+				"mr-modu",
+				"fcweb-2\\src\\view\\components\\mr-module-menu.php"
+			],
+			[
+				"mealrecip",
+				"fcweb-2\\src\\view\\meal-planner\\meal-recipe-center.php"
+			],
+			[
+				"plandetail",
+				"fcweb-2\\src\\view\\meal-planner\\plan-details.php"
+			],
+			[
+				"recipedetail",
+				"fcweb-2\\src\\view\\recipes\\recipe-detail.php"
+			],
+			[
+				"mealplahom",
+				"fcweb-2\\src\\view\\meal-planner\\meal-planner-home.php"
+			],
+			[
+				"mr-module-menu",
+				"fcweb-2\\src\\view\\components\\mr-module-menu.php"
+			],
+			[
+				"ingres",
+				"fcweb-2\\src\\view\\recipes\\ingredient-search.php"
+			],
+			[
+				"myrec",
+				"fcweb-2\\src\\view\\recipes\\my-recipes.php"
+			],
+			[
+				"respo",
+				"fcweb-2\\src\\css\\scss\\partials\\_responsive.scss"
+			],
+			[
+				"respons",
+				"fcweb-2\\src\\css\\scss\\partials\\_responsive-utils.scss"
+			],
+			[
+				"mealrec",
+				"fcweb-2\\src\\view\\meal-planner\\meal-recipe-center.php"
+			],
+			[
+				"meal-recipe-center",
+				"fcweb-2\\src\\view\\meal-planner\\meal-recipe-center.php"
+			],
+			[
+				"mealplanhom",
+				"fcweb-2\\src\\view\\meal-planner\\meal-planner-home.php"
+			],
+			[
+				"ingrsear",
+				"fcweb-2\\src\\view\\recipes\\ingredient-search.php"
+			],
+			[
+				"myrecipe",
+				"fcweb-2\\src\\view\\recipes\\my-recipes.php"
+			],
+			[
+				"ingresearch",
+				"fcweb-2\\src\\view\\recipes\\ingredient-search.php"
+			],
+			[
+				"_type",
+				"fcweb-2\\src\\css\\scss\\vendor\\foodcity\\ui\\_type.scss"
+			],
+			[
+				"responsivenav",
+				"fcweb-2\\src\\css\\scss\\partials\\_responsive-navbar.scss"
+			],
+			[
+				"gulp",
+				"fcweb-2\\gulpfile.js"
+			],
+			[
+				"modulgroupin",
+				"fcweb-2\\src\\view\\templates\\module-items-grouped-ingredients.tpl.php"
+			],
+			[
+				"modulecarou",
+				"fcweb-2\\src\\view\\components\\module-carousel.php"
+			],
+			[
+				"receipscss",
+				"fcweb-2\\src\\css\\scss\\partials\\_responsive-getcooking-pg.scss"
+			],
+			[
+				"bread",
+				"fcweb-2\\src\\css\\scss\\vendor\\foodcity\\ui\\_breadcrumbs.scss"
+			],
+			[
+				"mealplanscss",
+				"fcweb-2\\src\\css\\scss\\partials\\_meal-plan.scss"
+			],
+			[
+				"plandetails",
+				"fcweb-2\\src\\view\\meal-planner\\plan-details.php"
+			],
+			[
+				"plandaysphp",
+				"fcweb-2\\src\\view\\meal-planner\\plan-days.php"
+			],
+			[
+				"prodmodscss",
+				"fcweb-2\\src\\css\\scss\\partials\\_product-modules.scss"
+			],
+			[
+				"vars",
+				"fcweb-2\\src\\css\\scss\\vendor\\foodcity\\_vars.scss"
+			],
+			[
+				"resposnive.scss",
+				"fcweb-2\\src\\css\\scss\\partials\\_responsive.scss"
+			],
+			[
+				"prodscss",
+				"fcweb-2\\src\\css\\scss\\vendor\\foodcity\\components\\_product-detail.scss"
+			],
+			[
+				"shopdetail",
+				"fcweb-2\\src\\view\\shop-detail.php"
+			],
+			[
+				"moddialadd",
+				"fcweb-2\\src\\view\\meal-planner\\modal-dialog-add-recipe.php"
+			],
+			[
+				"modaldialogplan",
+				"fcweb-2\\src\\view\\meal-planner\\modal-dialog-add-meal-plan.php"
+			],
+			[
+				"repdock",
+				"fcweb-2\\src\\view\\meal-planner\\recipe-dock.php"
+			],
+			[
+				"footer",
+				"fcweb-2\\src\\view\\footer.php"
+			],
+			[
+				"mealplscss",
+				"fcweb-2\\src\\css\\scss\\partials\\_meal-plan.scss"
+			],
+			[
+				"recipe-dock",
+				"fcweb-2\\src\\view\\meal-planner\\recipe-dock.php"
+			],
+			[
+				"mealpl",
+				"fcweb-2\\src\\js\\meal-plan.js"
+			],
+			[
+				"globals",
+				"fcweb-2\\src\\js\\globals.js"
+			],
+			[
+				"plandays",
+				"fcweb-2\\src\\view\\meal-planner\\plan-days.php"
+			],
+			[
+				"planmon",
+				"fcweb-2\\src\\view\\meal-planner\\plan-month.php"
+			],
+			[
+				"phperr",
+				"wamp logs\\php_error.log"
+			],
+			[
+				"plan-detail",
+				"fcweb-2\\src\\view\\meal-planner\\plan-details.php"
+			],
+			[
+				"plandeta",
+				"fcweb-2\\src\\view\\meal-planner\\plan-details.php"
+			],
+			[
+				"ctlmeal",
+				"fcweb-2\\src\\controller\\ctl_meal_planner.php"
+			],
+			[
+				"mepscss",
+				"fcweb-2\\src\\css\\scss\\partials\\_meal-plan.scss"
+			],
+			[
+				"mealplan",
+				"fcweb-2\\src\\js\\meal-plan.js"
+			],
+			[
+				"plan-mon",
+				"fcweb-2\\src\\view\\meal-planner\\plan-month.php"
+			],
+			[
+				"gridfram",
+				"fcweb-2\\src\\css\\scss\\vendor\\bootstrap\\mixins\\_grid-framework.scss"
+			],
+			[
+				"mplscss",
+				"fcweb-2\\src\\css\\scss\\partials\\_meal-plan.scss"
+			],
+			[
+				"plmon",
+				"fcweb-2\\src\\view\\meal-planner\\plan-month.php"
+			],
+			[
+				"planday",
+				"fcweb-2\\src\\view\\meal-planner\\plan-days.php"
+			],
+			[
+				"mpmscss",
+				"fcweb-2\\src\\css\\scss\\partials\\_meal-plan-month.scss"
+			],
+			[
+				"meaplanmon",
+				"fcweb-2\\src\\css\\scss\\partials\\_meal-plan-month.scss"
+			],
+			[
+				"plande",
+				"fcweb-2\\src\\view\\meal-planner\\plan-details.php"
+			],
+			[
+				"mealplnhom",
+				"fcweb-2\\src\\view\\meal-planner\\meal-planner-home.php"
+			],
+			[
+				"mealhom",
+				"fcweb-2\\src\\view\\meal-planner\\meal-planner-home.php"
+			],
+			[
+				"pher",
+				"wamp logs\\php_error.log"
+			],
+			[
+				"mpmon",
+				"fcweb-2\\src\\css\\scss\\partials\\_meal-plan-month.scss"
+			],
+			[
+				"scr",
+				"fcweb-2\\notes\\screen-size-variables.scss"
+			],
+			[
+				"mpmonscss",
+				"fcweb-2\\src\\css\\scss\\partials\\_meal-plan-month.scss"
+			],
+			[
+				"vic.scss",
+				"fcweb-2\\src\\css\\scss\\partials\\vic.scss"
+			],
+			[
+				"breadcu",
+				"fcweb-2\\src\\css\\scss\\vendor\\bootstrap\\_breadcrumbs.scss"
+			],
+			[
+				"screvar",
+				"fcweb-2\\notes\\screen-size-variables.scss"
+			],
+			[
+				"recipescss",
+				"fcweb-2\\src\\css\\scss\\partials\\_recipes.scss"
+			],
+			[
+				"ctlrec",
+				"fcweb-2\\src\\controller\\ctl_recipes.php"
+			],
+			[
+				"mealplhom",
+				"fcweb-2\\src\\view\\meal-planner\\meal-planner-home.php"
+			],
+			[
+				"vicscss",
+				"fcweb-2\\src\\css\\scss\\partials\\vic.scss"
+			],
+			[
+				"meaplanjs",
+				"fcweb-2\\src\\js\\meal-plan.js"
+			],
+			[
+				"responnavbar",
+				"fcweb-2\\src\\css\\scss\\partials\\_responsive-navbar.scss"
+			],
+			[
+				"glob",
+				"fcweb-2\\src\\js\\globals.js"
+			],
+			[
+				"mealplnmon",
+				"fcweb-2\\src\\css\\scss\\partials\\_meal-plan-month.scss"
+			],
+			[
+				"recipes.c",
+				"fcweb-2\\src\\css\\scss\\partials\\_recipes.scss"
+			],
+			[
+				"responscss",
+				"fcweb-2\\src\\css\\scss\\partials\\_responsive.scss"
+			],
+			[
+				"screnva",
+				"fcweb-2\\notes\\screen-size-variables.scss"
+			],
+			[
+				"globas",
+				"fcweb-2\\src\\view\\templates\\components\\global-search-navbar.tpl.php"
+			],
+			[
+				"scree",
+				"fcweb-2\\notes\\screen-size-variables.scss"
+			],
+			[
+				"navbartpl",
+				"fcweb-2\\src\\view\\templates\\components\\navbar.tpl.php"
+			],
+			[
+				"mealpmoscs",
+				"fcweb-2\\src\\css\\scss\\partials\\_meal-plan-month.scss"
+			],
+			[
+				"meal",
+				"fcweb-2\\src\\js\\meal-plan.js"
+			],
+			[
+				"mpjs",
+				"fcweb-2\\src\\js\\meal-plan.js"
+			],
+			[
+				"main.css",
+				"processed-css\\main.css"
+			],
+			[
+				"variabl",
+				"fcweb-2\\src\\css\\scss\\vendor\\bootstrap\\_variables.scss"
+			],
+			[
+				"responutil",
+				"fcweb-2\\src\\css\\scss\\partials\\_responsive-utils.scss"
+			],
+			[
+				"navbar",
+				"fcweb-2\\src\\view\\templates\\components\\navbar.tpl.php"
+			],
+			[
+				"melplscss",
+				"fcweb-2\\src\\css\\scss\\partials\\_meal-plan.scss"
+			],
+			[
+				"mealplanhome",
+				"fcweb-2\\src\\view\\meal-planner\\meal-planner-home.php"
+			],
+			[
+				"scrvar",
+				"fcweb-2\\notes\\screen-size-variables.scss"
+			],
+			[
+				"mealplmonscss",
+				"fcweb-2\\src\\css\\scss\\partials\\_meal-plan-month.scss"
+			],
+			[
+				"glo",
+				"fcweb-2\\src\\js\\globals.js"
+			],
+			[
+				"mealplanjs",
+				"fcweb-2\\src\\js\\meal-plan.js"
+			],
+			[
+				"mealplanmon",
+				"fcweb-2\\src\\css\\scss\\partials\\_meal-plan-month.scss"
+			],
+			[
+				"mealplnamon",
+				"fcweb-2\\src\\css\\scss\\partials\\_meal-plan-month.scss"
+			],
+			[
+				"mealplan.js",
+				"fcweb-2\\src\\js\\meal-plan.js"
+			],
+			[
+				"glob.js",
+				"fcweb-2\\src\\js\\globals.js"
+			],
+			[
+				"mealplnmonscss",
+				"fcweb-2\\src\\css\\scss\\partials\\_meal-plan-month.scss"
+			],
+			[
+				"responmealpl",
+				"fcweb-2\\src\\css\\scss\\partials\\_responsive-mealplanner.scss"
+			],
+			[
+				"mealplanmonthscs",
+				"fcweb-2\\src\\css\\scss\\partials\\_meal-plan-month.scss"
+			],
+			[
+				"main.j",
+				"fcweb-2\\src\\js\\main.js"
+			],
+			[
+				"gloab.js",
+				"fcweb-2\\src\\js\\globals.js"
+			],
+			[
+				"sysmodaldia",
+				"fcweb-2\\src\\view\\templates\\global\\sys-modal-dialog.tpl.php"
+			],
+			[
+				"modaldial",
+				"fcweb-2\\src\\view\\meal-planner\\modal-dialog-add-item.php"
+			],
+			[
+				"planmot",
+				"fcweb-2\\src\\view\\meal-planner\\plan-month.php"
+			],
+			[
+				"mealpmon",
+				"fcweb-2\\src\\css\\scss\\partials\\_meal-plan-month.scss"
+			],
+			[
+				"mealpm.php",
+				"fcweb-2\\src\\view\\meal-planner\\plan-month.php"
+			],
+			[
+				"mealplnmphp",
+				"fcweb-2\\src\\objects\\MealPlannerItem.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\wamp\\www\\sublime_projects\\notes.sublime-workspace"
+			],
+			[
+				"notes",
+				"C:\\wamp\\www\\sublime_projects\\notes.sublime-workspace"
+			],
+			[
+				"wamp",
+				"C:\\wamp\\www\\sublime_projects\\wamp.sublime-project"
+			],
+			[
+				"inmar",
+				"C:\\wamp\\www\\sublime_projects\\inmar.sublime-project"
+			],
+			[
+				"nmar",
+				"C:\\wamp\\www\\sublime_projects\\inmar.sublime-project"
+			],
+			[
+				"wbm",
+				"C:\\wamp\\www\\sublime_projects\\wbm.sublime-project"
+			],
+			[
+				"inm",
+				"C:\\wamp\\www\\sublime_projects\\inmar.sublime-project"
+			],
+			[
+				"tomb",
+				"C:\\wamp\\www\\sublime_projects\\tombras.sublime-project"
+			],
+			[
+				"in",
+				"C:\\wamp\\www\\sublime_projects\\inmar.sublime-project"
+			],
+			[
+				"isf",
+				"C:\\wamp\\www\\sublime_projects\\isf.sublime-project"
+			],
+			[
+				"fcweb",
+				"C:\\wamp\\www\\sublime_projects\\fcweb-2.sublime-project"
+			],
+			[
+				"casper",
+				"C:\\wamp\\www\\sublime_projects\\casper.sublime-project"
+			],
+			[
+				"f",
+				"C:\\wamp\\www\\sublime_projects\\fcweb-2.sublime-project"
+			],
+			[
+				"swa",
+				"C:\\wamp\\www\\sublime_projects\\swalls.sublime-project"
+			],
+			[
+				"inar",
+				"C:\\wamp\\www\\sublime_projects\\inmar.sublime-project"
+			],
+			[
+				"fcisft",
+				"C:\\wamp\\www\\sublime_projects\\fcisfdt.sublime-workspace"
+			],
+			[
+				"isfdt",
+				"C:\\wamp\\www\\sublime_projects\\fc-isfdt.sublime-project"
+			],
+			[
+				"isfdtr",
+				"C:\\wamp\\www\\sublime_projects\\fc-isfdt.sublime-project"
+			],
+			[
+				"bms",
+				"C:\\wamp\\www\\sublime_projects\\bms-countdown-email.sublime-project"
+			],
+			[
+				"wap",
+				"C:\\wamp\\www\\sublime_projects\\wamp.sublime-project"
+			],
+			[
+				"swall",
+				"C:\\wamp\\www\\sublime_projects\\swalls.sublime-project"
+			],
+			[
+				"cach",
+				"C:\\wamp\\www\\sublime_projects\\fcweb-cache-bust.sublime-project"
+			],
+			[
+				"swalls",
+				"C:\\wamp\\www\\sublime_projects\\swalls.sublime-project"
+			],
+			[
+				"cac",
+				"C:\\wamp\\www\\sublime_projects\\fcweb-cache-bust.sublime-project"
+			],
+			[
+				"fcwebm",
+				"C:\\wamp\\www\\sublime_projects\\fcweb-m.sublime-project"
+			],
+			[
+				"eer",
+				"C:\\wamp\\www\\sublime_projects\\exercism.sublime-project"
+			],
+			[
+				"exe",
+				"C:\\wamp\\www\\sublime_projects\\exercism.sublime-project"
+			],
+			[
+				"csvreg",
+				"C:\\wamp\\www\\sublime_projects\\csv-regexer.sublime-project"
+			],
+			[
+				"fcmobil",
+				"C:\\wamp\\www\\sublime_projects\\fc-mobile.sublime-project"
+			],
+			[
+				"fcour",
+				"C:\\wamp\\www\\sublime_projects\\fc-our.sublime-project"
+			],
+			[
+				"fcecom",
+				"C:\\wamp\\www\\sublime_projects\\fc-ecom.sublime-project"
+			],
+			[
+				"fc-ecom",
+				"C:\\wamp\\www\\sublime_projects\\fc-ecom.sublime-project"
+			],
+			[
+				"fce",
+				"C:\\wamp\\www\\sublime_projects\\fc-ecom.sublime-project"
+			],
+			[
+				"holler",
+				"C:\\wamp\\www\\sublime_projects\\holler.sublime-workspace"
+			],
+			[
+				"fc",
+				"C:\\wamp\\www\\sublime_projects\\fc-isfdt.sublime-project"
+			],
+			[
+				"w",
+				"C:\\wamp\\www\\sublime_projects\\wbm-admin.sublime-project"
+			],
+			[
+				"isft",
+				"C:\\wamp\\www\\sublime_projects\\isf.sublime-project"
+			],
+			[
+				"ISF",
+				"C:\\wamp\\www\\sublime_projects\\isf.sublime-project"
+			],
+			[
+				"css",
+				"C:\\wamp\\www\\sublime_projects\\inmar.sublime-project"
+			],
+			[
+				"wb",
+				"C:\\wamp\\www\\sublime_projects\\wbm-admin.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 60.0,
+		"last_filter": "getsearchop",
+		"selected_items":
+		[
+			[
+				"getsearchop",
+				"getSearchOptions"
+			],
+			[
+				"showmealrec",
+				"showMealRecipeCenter"
+			],
+			[
+				"addRecipeCal",
+				"addRecipeCal"
+			],
+			[
+				"togglefav",
+				"toggleRecipeFav"
+			],
+			[
+				"makegrid",
+				"odd-make-grid"
+			],
+			[
+				"mtoinstru",
+				"getMTOInstructions"
+			],
+			[
+				"editCartItemNotes",
+				"editCartItemNotes"
+			],
+			[
+				"showlist",
+				"showList"
+			],
+			[
+				"showmodalget",
+				"showModalGetCooking"
+			],
+			[
+				"showModalGetCooking",
+				"showModalGetCooking"
+			],
+			[
+				"getLocationsByZip",
+				"getLocationsByZip"
+			],
+			[
+				"toggledatatxtman",
+				"toggleDataTxtManual"
+			],
+			[
+				"getMTOItemsByWebCategory",
+				"getMTOItemsByWebCategory"
+			],
+			[
+				"findcouponprodu",
+				"findCouponProducts"
+			],
+			[
+				"#wrapper",
+				"#wrapper"
+			],
+			[
+				"wrapper",
+				"wrapper"
+			],
+			[
+				"showcheckoutset2",
+				"showCheckoutStep2"
+			],
+			[
+				"getMTOItemByID",
+				"getMTOItemByID"
+			],
+			[
+				"generateimageurl",
+				"generateImageUrl"
+			],
+			[
+				"setupCarouselBreaks",
+				"setupCarouselBreaks"
+			],
+			[
+				"setupmodulecarousel",
+				"setupModuleCarousels"
+			],
+			[
+				"setupstikc",
+				"setupStickySidebars"
+			],
+			[
+				"setupstick",
+				"setupStickyBar"
+			],
+			[
+				"setupsticky",
+				"setupStickySidebars"
+			],
+			[
+				"setupsti",
+				"setupStickySidebars"
+			],
+			[
+				"setupStickySidebars",
+				"setupStickySidebars"
+			],
+			[
+				"setupmodalda",
+				"setupModalDatePicker"
+			],
+			[
+				"showmodal",
+				"showModal"
+			],
+			[
+				"showquick",
+				"showQuickCart"
+			],
+			[
+				"iiricate",
+				"mapFiltersToIIRICategories"
+			],
+			[
+				"getitemsiri",
+				"getTopItemsByDeptAndDescription"
+			],
+			[
+				"removesea",
+				"removeSearchIngred"
+			],
+			[
+				"htmlwrp",
+				"htmlWrap"
+			],
+			[
+				"getCartNonExcludedIIRIRecipes",
+				"getCartNonExcludedIIRIRecipes"
+			],
+			[
+				"shopin",
+				"shopIngredientsSearch"
+			],
+			[
+				"getcategoryby",
+				"getRecipeCategoryByID"
+			],
+			[
+				"setupClickTrace",
+				"setupClickTrace"
+			],
+			[
+				"showModalRecipeDetail",
+				"showModalRecipeDetail"
+			],
+			[
+				"showmodalrecip",
+				"showModalRecipeDetail"
+			],
+			[
+				"removesearchin",
+				"removeSearchIngred"
+			],
+			[
+				"searcre",
+				"searchRecipes"
+			],
+			[
+				"searchre",
+				"searchRecipes"
+			],
+			[
+				"getprimary",
+				"getPrimaryCategory"
+			],
+			[
+				"getItemByUPC",
+				"getItemByUPC"
+			],
+			[
+				"clipc",
+				"clipCoupon"
+			],
+			[
+				"clipCoupon",
+				"clipCoupon"
+			],
+			[
+				"clipcoupon",
+				"clipCoupon"
+			],
+			[
+				"showSponsoredIngredientDetails",
+				"showSponsoredIngredientDetails"
+			],
+			[
+				"swapSelectedProduct",
+				"swapSelectedProduct"
+			],
+			[
+				"shopIngredientsSearch",
+				"shopIngredientsSearch"
+			],
+			[
+				"checkmodule",
+				"checkModule"
+			],
+			[
+				"addNonMappedRecipeToCart",
+				"addNonMappedRecipeToCart"
+			],
+			[
+				"validatePassReset",
+				"validatePassReset"
+			],
+			[
+				"showlogin",
+				"showLogin"
+			],
+			[
+				"ctluser",
+				"ctl_user"
+			],
+			[
+				"getcontent",
+				"getContent"
+			],
+			[
+				"getrunninglow",
+				"getRunningLow"
+			],
+			[
+				"getRunningLow",
+				"getRunningLow"
+			],
+			[
+				"getcartexlu",
+				"getCartExcludedSimilarRecipes"
+			],
+			[
+				"getnonexc",
+				"getCartNonExcludedIIRIRecipes"
+			],
+			[
+				"showcar",
+				"showCart"
+			],
+			[
+				"shoping",
+				"shopIngredientsSearch"
+			],
+			[
+				"shop",
+				"shopIngredientsSearch"
+			],
+			[
+				"validateLoyaltyFields2",
+				"validateLoyaltyFields2"
+			],
+			[
+				"setAnyKeywordSearch",
+				"setAnyKeywordSearch"
+			],
+			[
+				"getCartItemBySeqNum",
+				"getCartItemBySeqNum"
+			],
+			[
+				"updateItemQTY",
+				"updateItemQTY"
+			],
+			[
+				"addSpecialRequest",
+				"addSpecialRequest"
+			],
+			[
+				"removeSpecialRequest",
+				"removeSpecialRequest"
+			],
+			[
+				"getIngredients",
+				"getIngredients"
+			],
+			[
+				"getIsAgeRestricted",
+				"getIsAgeRestricted"
+			],
+			[
+				"getstor",
+				"getStoreNumber"
+			],
+			[
+				"getstornu",
+				"getStoreNum"
+			],
+			[
+				"loadHomePageAvailableFromCache",
+				"loadHomePageAvailableFromCache"
+			],
+			[
+				"getRecentlyAddedFavoriteRecipes",
+				"getRecentlyAddedFavoriteRecipes"
+			],
+			[
+				"updateItem",
+				"updateItem"
+			],
+			[
+				"isRecipeOnPlanCategory",
+				"isRecipeOnPlanCategory"
+			],
+			[
+				"getAverageRecipeRating",
+				"getAverageRecipeRating"
+			],
+			[
+				"getRecipeRating",
+				"getRecipeRating"
+			],
+			[
+				"getCollectionByID",
+				"getCollectionByID"
+			],
+			[
+				"getAvailablePlanStyles",
+				"getAvailablePlanStyles"
+			],
+			[
+				"getRecipeById",
+				"getRecipeById"
+			],
+			[
+				"getRecipeFavorites",
+				"getRecipeFavorites"
+			],
+			[
+				"getRecipesGroupedByCategory",
+				"getRecipesGroupedByCategory"
+			],
+			[
+				"getRecentlyAddedRecipes",
+				"getRecentlyAddedRecipes"
+			],
+			[
+				"saveMealPlan",
+				"saveMealPlan"
+			],
+			[
+				"isrecipeon",
+				"isRecipeOnPlanCategory"
+			],
+			[
+				"saveMealPlanItem",
+				"saveMealPlanItem"
+			],
+			[
+				"saveRecipeToCalendar",
+				"saveRecipeToCalendar"
+			],
+			[
+				"togglere",
+				"toggleRecipeFav"
+			],
+			[
+				"getRecipeImageUrl",
+				"getRecipeImageUrl"
+			],
+			[
+				"getrecipeim",
+				"getRecipeImageUrl"
+			],
+			[
+				"setupModalDatePickers",
+				"setupModalDatePickers"
+			],
+			[
+				"setupDateRange",
+				"setupDateRange"
+			],
+			[
+				"noSpace",
+				"noSpace"
+			],
+			[
+				"getLocalSimiliarRecipes",
+				"getLocalSimiliarRecipes"
+			],
+			[
+				"getimgurl",
+				"getRecipeImageUrl"
+			],
+			[
+				"getRecipeSource",
+				"getRecipeSource"
+			],
+			[
+				"getMappedRecipes",
+				"getMappedRecipes"
+			],
+			[
+				"hasMasterPlan",
+				"hasMasterPlan"
+			],
+			[
+				"getCalendar",
+				"getCalendar"
+			],
+			[
+				"showMealPlannerHome",
+				"showMealPlannerHome"
+			],
+			[
+				"toggleCheck",
+				"toggleCheck"
+			],
+			[
+				"checkAllRecipeIngredients",
+				"checkAllRecipeIngredients"
+			],
+			[
+				"showGetCookingSuccessModal",
+				"showGetCookingSuccessModal"
+			],
+			[
+				"shopingredien",
+				"shopIngredientsSearch"
+			],
+			[
+				"increasequc",
+				"increaseQuickCartModalQTYValue"
+			],
+			[
+				"addtocart",
+				"addToCart"
+			],
+			[
+				"toggleModulePop",
+				"toggleModulePop"
+			],
+			[
+				"purdy",
+				"purdyProductText"
+			],
+			[
+				"getItemTestData",
+				"getItemTestData"
+			],
+			[
+				"showRecipeDetails",
+				"showRecipeDetails"
+			],
+			[
+				"purdyProductText",
+				"purdyProductText"
+			],
+			[
+				"toOutputArray",
+				"toOutputArray"
+			],
+			[
+				"getPrice",
+				"getPrice"
+			],
+			[
+				"purdyprou",
+				"purdyProductText"
+			],
+			[
+				"showModalRecipeDetails",
+				"showModalRecipeDetails"
+			],
+			[
+				"setupModuleCarousels",
+				"setupModuleCarousels"
+			],
+			[
+				"setuptool",
+				"setupTooltips"
+			],
+			[
+				"byupc",
+				"getItemByUPC"
+			],
+			[
+				"getproductname",
+				"getProductName"
+			],
+			[
+				"styleCheckboxes",
+				"styleCheckboxes"
+			],
+			[
+				"checkbox",
+				"setupCheckboxInputShowHide"
+			],
+			[
+				"removeGetCookingIngred",
+				"removeGetCookingIngred"
+			],
+			[
+				"addRecipeToCart",
+				"addRecipeToCart"
+			],
+			[
+				"showcart",
+				"showCart"
+			],
+			[
+				"toggleRecipeFav",
+				"toggleRecipeFav"
+			],
+			[
+				"getEventSearch",
+				"getEventSearch"
+			]
+		],
+		"width": 480.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"fss_on_distraction_free": false,
+		"fss_on_full_screen": false,
+		"show_tabs": false,
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"16":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"68":
+				{
+					"group": 0,
+					"index": 6
+				},
+				"73":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"74":
+				{
+					"group": 0,
+					"index": 5
+				},
+				"78":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"81":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"85":
+				{
+					"group": 0,
+					"index": 4
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

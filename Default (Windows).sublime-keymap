@@ -315,11 +315,10 @@
 	},
 	{ "keys": ["insert"], "command": "toggle_overwrite" },
 
-	// { // SNIPPET TESTER - Comment Selected Block
-	// 	"keys": ["ctrl+shift+alt+t"],
-	// 	"command": "insert_snippet",
-	// 	"args": { "name": "Packages/User/Snippets/test.sublime-snippet" }
-	// },
+	{ // plugin tester
+		"keys": ["ctrl+shift+alt+k", "ctrl+shift+alt+t"],
+		"command": "py_test"
+	},
 
 	// split element out by attributes
 	{"keys": ["ctrl+shift+alt+j"], "command": "php_commenter_plus"},

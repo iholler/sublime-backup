@@ -10,7 +10,8 @@
 		"Inmar",
 		"Siopsis's",
 		"uninstall",
-		"preprocess"
+		"preprocess",
+		"workflow"
 	],
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
@@ -22,19 +23,19 @@
 	"color_scheme": "Packages/User/Themes/blueholler.tmTheme",
 	"copy_with_empty_selection": false,
 	"default_line_ending": "unix",
-	"draw_centered": false,
-	"draw_indent_guides": true,
+	"draw_centered": true,
+	"draw_indent_guides": false,
 	"font_face": "Consolas",
 	"font_options":
 	[
 		"gdi"
 	],
 	"font_size": 8,
-	"gutter": true,
+	"fss_on_distraction_free": true,
+	"gutter": false,
 	"ignored_packages":
 	[
 		"ColorHelper",
-		"HTML-CSS-JS Prettify",
 		"SCSS Snippets",
 		"SublimeLinter-jshint",
 		"Vintage"
@@ -45,8 +46,8 @@
 	],
 	"indent_to_bracket": false,
 	"line_numbers": false,
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"margin": 0,
 	"overlay_scroll_bars": "enabled",
 	"show_encoding": true,
@@ -54,7 +55,7 @@
 	"show_open_files": false,
 	"tab_size": 2,
 	"trim_trailing_white_space_on_save": true,
-	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_separators": "./\\():,.;<>~!@#$%^&*|+=[]{}\"'`~?",
 	"word_wrap": true,
 	"wrap_width": 81
 }
