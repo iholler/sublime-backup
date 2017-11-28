@@ -1,0 +1,33 @@
+<snippet>
+	<content><![CDATA[
+# WRITE/READ USB SPEED TEST
+
+## notes:
+# cd to usb drive {/e/}
+
+#------------------------------------------------------------------------------------------------
+## WRITE SPEED TEST
+dd if=/dev/zero of=/k/speedTest/tempfile bs=10M count=100 conv=fdatasync,notrunc
+
+## WRITE SPEED TEST RESULTS:
+# \$ dd if=/dev/zero of=/k/speedTest/tempfile bs=10M count=100 conv=fdatasync,notrunc
+# 8922+1 records in
+# 8922+1 records out
+# 73095744 bytes (73 MB) copied, 23.3102 s, 3.1 MB/s
+
+#------------------------------------------------------------------------------------------------
+## READ SPEED TEST
+dd if=/e/speedTest/Personal.zip of=/dev/null bs=8k
+
+## READ SPEED TEST RESULTS:
+# \$ dd if=/e/speedTest/Personal.zip of=/dev/null bs=8k
+# 8922+1 records in
+# 8922+1 records out
+# 73095744 bytes (73 MB) copied, 0.0365274 s, 2.0 GB/s
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>usb-speed-test</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

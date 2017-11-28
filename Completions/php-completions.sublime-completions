@@ -1,0 +1,8 @@
+{
+  "scope": "embedding.php text.html.basic",
+  	"completions":
+		[
+			{ "trigger": "for", "contents": "<?php for (\\$i=0; \\$i < ${1:\\$array}; \\$i++) { ?>\n\t${2:\\$code}\n<?php } ?>" }
+		]
+
+}

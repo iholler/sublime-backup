@@ -1,16 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<?php
-	for (\$${1:i}=0; \$${1:i} < ${2:\$array}; \$${1:i}++)
-	{
-?>
-	${3}
-<?php
-	}
-?>
+(?:${1:\()})([^${1:\()}${2:\)}]+)(?:${2:\)})
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>for</tabTrigger>
+	<tabTrigger>regex-parenthesis</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.html</scope> -->
+	<!-- <scope>source.python</scope> -->
 </snippet>

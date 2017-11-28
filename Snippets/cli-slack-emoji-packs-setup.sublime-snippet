@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+// setup new slack team with leet-mojis
+// npm install -g emojipacks
+
+emojipacks -s '${1:basement-speak}' -e '${2:stephen.curtis.k@gmail.com}' -p '${3:basement rats}' -y 'https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/parrotparty.yaml' &&
+emojipacks -s '${1:basement-speak}' -e '${2:stephen.curtis.k@gmail.com}' -p '${3:basement rats}' -y 'https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/frontend.yaml' &&
+emojipacks -s '${1:basement-speak}' -e '${2:stephen.curtis.k@gmail.com}' -p '${3:basement rats}' -y 'https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/mario-8bit.yaml' &&
+emojipacks -s '${1:basement-speak}' -e '${2:stephen.curtis.k@gmail.com}' -p '${3:basement rats}' -y 'https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/officespace.yaml' &&
+emojipacks -s '${1:basement-speak}' -e '${2:stephen.curtis.k@gmail.com}' -p '${3:basement rats}' -y 'https://raw.githubusercontent.com/snipe/hamsterdance-emojipack/master/hamsterdance.yaml' &&
+emojipacks -s '${1:basement-speak}' -e '${2:stephen.curtis.k@gmail.com}' -p '${3:basement rats}' -y 'https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/octicons.yaml' &&
+emojipacks -s '${1:basement-speak}' -e '${2:stephen.curtis.k@gmail.com}' -p '${3:basement rats}' -y 'https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-retro-game.yaml' &&
+emojipacks -s '${1:basement-speak}' -e '${2:stephen.curtis.k@gmail.com}' -p '${3:basement rats}' -y 'https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/starwars.yaml'
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>slack-emojis</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

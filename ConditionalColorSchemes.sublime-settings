@@ -1,0 +1,11 @@
+{
+	// This setting dictates which color scheme set will take priority if a match is found in both color scheme sets.
+	// Options: "fileName_ColorSchemes" or "filePath_ColorSchemes"
+	"preferred_ColorScheme_Set": "Packages/Color Scheme - Legacy/SpaceCadet.tmTheme",
+	"fileName_ColorSchemes":
+		[
+			// Match any CSS file
+			{	"regexPattern": ".*\\.md",
+				"colorScheme": "Packages/Color Scheme - Legacy/SpaceCadet.tmTheme" },
+	],
+}

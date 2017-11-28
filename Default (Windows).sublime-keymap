@@ -323,8 +323,14 @@
 	// split element out by attributes
 	{"keys": ["ctrl+shift+alt+j"], "command": "php_commenter_plus"},
 
-	// open time log
-	{"keys": ["ctrl+shift+alt+t"], "command": "open_time_log"},
+	// open global todo list
+	{"keys": ["ctrl+shift+alt+t"], "command": "open_global_todo"},
+
+	{ // display multiple selection in quick panel
+		"keys": ["ctrl+shift+alt+d"],
+		"command": "display_multiple_selections"
+	},
 
 ]
+
 

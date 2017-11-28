@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+ssh vrfcoffers@offers.foodcity.retail.vic.com
+AG85IY6LIT
+tail -f logs/error_log
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tail-email</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

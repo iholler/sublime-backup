@@ -1,5 +1,5 @@
 {
-	"disabled_keymap_actions": "expand_abbreviation, update_image_size, run_emmet_action",
+	"disabled_keymap_actions": "expand_abbreviation, update_image_size, run_emmet_action, update_as_you_type, update_image_size",
 	"snippets": {
 		"scss": {
 			"abbreviations": {

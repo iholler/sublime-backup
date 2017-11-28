@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+cp /c/Users/Stephen/Downloads/${1:offerCache_09142017}.csv /c/wamp/www/tools/csv-regexer/data
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>csv-data</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,7 +1,6 @@
 {
 	"user":
 	{
-		"@disable": true,
 		"debug": false,
 		"delay": 0.25,
 		"error_color": "D02000",
@@ -19,7 +18,7 @@
 		{
 			"htmltidy":
 			{
-				"@disable": false,
+				"@disable": true,
 				"args":
 				[
 				],
@@ -52,6 +51,16 @@
 				[
 				]
 			},
+			"lua":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
 			"php":
 			{
 				"@disable": false,
@@ -64,7 +73,7 @@
 			},
 			"scss":
 			{
-				"@disable": false,
+				"@disable": true,
 				"args":
 				[
 				],
@@ -117,6 +126,12 @@
 			"python django": "python",
 			"pythonimproved": "python"
 		},
+		"tooltip_fontsize": "1rem",
+		"tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
+		"tooltip_theme_excludes":
+		[
+		],
+		"tooltips": true,
 		"warning_color": "DDB700",
 		"wrap_find": true
 	}

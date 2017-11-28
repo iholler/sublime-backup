@@ -11,3 +11,4 @@ Xdebug.expressions
 TimeTracker/
 *.pyc
 oscrypto-ca-bundle.crt
+Xdebug.log

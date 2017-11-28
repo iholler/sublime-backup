@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-// This captures any character for any length except the regex pattern you provide below.
-(?:.(?!(${1:anything_except_this_pattern}))+.)
+// Capture anything between two statements
+(${1:CAPTURE_1})((?:.(?!${2:CAPTURE_2})+.)+)(${2:CAPTURE_2})
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>regexcept</tabTrigger>

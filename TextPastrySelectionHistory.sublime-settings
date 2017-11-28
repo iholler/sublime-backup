@@ -1,0 +1,35 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"keep": true,
+					"operator": "subtract",
+					"pattern": "\\d+",
+					"use_regex": false
+				},
+				"command": "text_pastry_modify_selection",
+				"pattern": "\\d+"
+			},
+			"key": "217c2028762e7dcdedd3dce416220593",
+			"label": "\\d+"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"context": "selection",
+			"keep": true,
+			"operator": "subtract",
+			"pattern": "\\d+",
+			"use_regex": false
+		},
+		"command": "text_pastry_modify_selection",
+		"pattern": "\\d+"
+	}
+}
